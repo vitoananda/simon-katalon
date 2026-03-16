@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_presentation</name>
+   <tag></tag>
+   <elementGuidId>601dd28d-a438-48ad-872f-0d2201488f9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-labelledby=&quot;select2-CurrencyMaksKredit-container&quot;] span[role=&quot;presentation&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'select2-CurrencyMaksKredit-container']//span[@role = 'presentation']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.col-sm-2 > .select2 > .selection > .select2-selection > .select2-selection__arrow >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>72693789-5a33-4f7e-8a84-f1c2615bdefa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__arrow</value>
+      <webElementGuid>16f33c35-dfca-43cb-8d17-0809a406f6b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>90bce60f-d8cf-4a77-a591-cf55a60985ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-d5e5b6edead6dc180e748276816f53b6</value>
+      <webElementGuid>822f9c2c-5065-46d8-a8dc-979a93cd3dc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'select2-CurrencyMaksKredit-container']//span[@role = 'presentation']</value>
+      <webElementGuid>77bc722a-e8dc-4a15-b949-ee6d3278a551</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'select2-CurrencyMaksKredit-container']//span[@role = 'presentation']</value>
+      <webElementGuid>5beff61a-c474-4eda-9b4d-826870c9d3c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

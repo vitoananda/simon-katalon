@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Keterangan</name>
+   <tag></tag>
+   <elementGuidId>fa68c364-b215-428f-b026-a5bce9bdb0ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Keterangan</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'Keterangan']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#Keterangan</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>3e9258af-b511-496a-8146-f365db83b09b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>js-example-placeholder-multiple js-states form-control custom-wdthrndm</value>
+      <webElementGuid>9be9b536-e28a-4023-8822-d413117f46a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Keterangan</value>
+      <webElementGuid>230f00ef-64d4-486c-b616-c1f480c93273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Keterangan</value>
+      <webElementGuid>e573d4bb-b7fd-4625-a186-f8b67a470d17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-227ada21a5fb78597846abf2ecc2570a</value>
+      <webElementGuid>56bbfa21-3fbb-4921-ad3d-cbada652aebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'Keterangan']</value>
+      <webElementGuid>549e5906-f90f-4d7d-aaca-c9c13da0e809</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'Keterangan']</value>
+      <webElementGuid>5c76d155-a11e-4300-8586-9c22a5f20d84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'Keterangan' and @name = 'Keterangan']</value>
+      <webElementGuid>bb4c6da6-0571-4f04-8f7d-f9d94ba3d406</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

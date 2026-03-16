@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_IsActive</name>
+   <tag></tag>
+   <elementGuidId>031459fa-2c0f-4650-87bb-d273e1f6328f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-group ') and (position() = 7)]//*[@value = 'False']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.form-group:nth-child(7) [value=&quot;False&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#IsActive >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f04e203b-ef39-4e1b-b15c-9b5a6689c586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>False</value>
+      <webElementGuid>21f4f6d1-10c7-4da8-9a33-bc4c81bdf593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>8bdeb260-9760-43d4-aad7-879262bbceb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>required</name>
+      <type>Main</type>
+      <value>True</value>
+      <webElementGuid>f3f9245f-5855-4806-9081-1a2977c43872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>IsActive</value>
+      <webElementGuid>31f16b34-3cea-4bbf-9341-58caba742c4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>IsActive</value>
+      <webElementGuid>ea74d708-a0df-4485-890d-f599d693e1e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-7b6d24978ff94ff2688ba7bbe7748128</value>
+      <webElementGuid>dda73697-92b4-4d61-8e57-fec0581345e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-group ') and (position() = 7)]//*[@value = 'False']</value>
+      <webElementGuid>565456d2-6731-43b6-9ac5-535f61185276</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-group ') and (position() = 7)]//*[@value = 'False']</value>
+      <webElementGuid>34f2f7d0-2aac-4fb3-8fe7-c34ff39b7f22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'radio' and @name = 'IsActive' and @id = 'IsActive']</value>
+      <webElementGuid>9568348f-2523-4403-b819-1863a761bb2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

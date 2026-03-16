@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SIMON - Pengaturan Lookup (Admin)</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7f12d8f-1f0e-49a1-badc-9811f5d9dd18</testCaseGuid>
+</TestCaseEntity>

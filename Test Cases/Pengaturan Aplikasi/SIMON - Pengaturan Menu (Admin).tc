@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SIMON - Pengaturan Menu (Admin)</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c4d3b047-48d6-47bd-9241-44285c50ce92</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_profileDropdown</name>
+   <tag></tag>
+   <elementGuidId>ea49744c-cd06-434f-b44e-5bc0eca437bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#profileDropdown</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'profileDropdown' and @href = '#']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'profileDropdown']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7a60a9ac-862f-423d-ad00-4b1291b97ecf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link dropdown-toggle</value>
+      <webElementGuid>c86c0de7-14f8-46d5-901d-bb094f6fd1f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>profileDropdown</value>
+      <webElementGuid>d901617f-b5dc-4d82-aa54-70d5b3352b57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>85cbf4a6-ec18-4ffb-8bd8-ef0bfbe00602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>76183c16-e7bd-4b4e-924a-e75adbc2e077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-d8edd8751b68163dd79738028ebbceff</value>
+      <webElementGuid>44c957bc-8a1e-4872-977d-a44fff2fb1cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'profileDropdown']</value>
+      <webElementGuid>c1e70070-a191-4aff-958c-0eaa22e28639</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'profileDropdown']</value>
+      <webElementGuid>b583a0bb-4c74-423a-aa1d-ed3eefb8687c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'profileDropdown' and @href = '#']</value>
+      <webElementGuid>2509c090-e604-403e-bc90-481c6446ec52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

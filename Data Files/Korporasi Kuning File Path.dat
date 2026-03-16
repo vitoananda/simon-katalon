@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Korporasi Kuning File Path</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>cc40d6fa-a662-417c-891a-e0b3797128cc</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>C%3A%5C%5CUsers%5C%5Cvtoan%5C%5CKatalon+Studio%5C%5CSimon%5C%5CUploaded+Files%5C%5Cupload_korporasi_kuning.xlsx</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>filePath</name>
+      <size>1</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

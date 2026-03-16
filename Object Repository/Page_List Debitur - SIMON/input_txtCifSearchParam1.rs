@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_txtCifSearchParam1</name>
+   <tag></tag>
+   <elementGuidId>1b8ee0b1-1496-423f-8056-698906450305</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-labelledby=&quot;step-1&quot;] .form-group:nth-child(1) [type=&quot;text&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'step-1']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-group ') and (position() = 1)]//*[@type = 'text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#txtCifSearchParam1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>fb616baa-0495-458f-83d3-633f7e166d99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>e54d69d1-62f4-46c9-a339-c979d970eb6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>c9143f98-f332-4b84-bfc4-ec9287cfa31d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>txtCifSearchParam1</value>
+      <webElementGuid>729a1471-72dc-4105-9942-f909ead67f36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-518ed7246f04f399682336ade1639bcf</value>
+      <webElementGuid>9a36e349-573d-48ad-8205-fd7bb0cdff41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'step-1']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-group ') and (position() = 1)]//*[@type = 'text']</value>
+      <webElementGuid>5a2b32b0-653a-419c-b684-5081daa019cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'step-1']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-group ') and (position() = 1)]//*[@type = 'text']</value>
+      <webElementGuid>93965cbf-7d81-447c-92f0-2685d0377db4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'txtCifSearchParam1']</value>
+      <webElementGuid>0dc20691-90b1-455e-925a-e763424c9495</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

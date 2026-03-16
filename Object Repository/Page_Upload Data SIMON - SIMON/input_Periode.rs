@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Periode</name>
+   <tag></tag>
+   <elementGuidId>d15d4126-1529-4689-a907-7c951e734916</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Periode</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'Periode']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#Periode</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>14e99007-c06e-4fa3-b0ff-bbf5bbd8db92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>periode</value>
+      <webElementGuid>bb9f8118-efc2-4e3e-9407-0e944b70146a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Periode</value>
+      <webElementGuid>a73b77e4-012e-4cc4-906d-a160229c5816</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control hasDatepicker</value>
+      <webElementGuid>6d11e739-09bc-45c1-9d2a-b64235650606</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-ea27bf9429eecc0bb63911e99aa05787</value>
+      <webElementGuid>e140815a-1d01-4c53-b548-11e72f031105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'Periode']</value>
+      <webElementGuid>9503a2a5-abc2-4056-9a4d-b64d1205133f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'Periode']</value>
+      <webElementGuid>e7602088-1982-4b6b-a06d-10b86ce9a98c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'periode' and @id = 'Periode']</value>
+      <webElementGuid>36f6c574-cda3-41f1-9626-e747f1a63458</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

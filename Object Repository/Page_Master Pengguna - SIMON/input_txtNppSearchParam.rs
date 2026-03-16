@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_txtNppSearchParam</name>
+   <tag></tag>
+   <elementGuidId>a0f45c7d-9439-4e73-a614-ccf9845806aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#txtNppSearchParam</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'txtNppSearchParam']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @id = 'txtNppSearchParam']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#txtNppSearchParam</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b92ccc0e-8ef4-4787-87e6-92177c73fd07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>e5984a46-6964-4b05-a7f4-ecfc86ac838b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>ed583c3d-da3e-49e5-a8ad-c38f36ed317f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>txtNppSearchParam</value>
+      <webElementGuid>d03e4812-42eb-4da4-ab71-19f86edc8bec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-66fd74dec6e5ed712c2db18f3ce55f49</value>
+      <webElementGuid>75981624-c4d7-4122-8d6d-e9e07ba708fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'txtNppSearchParam']</value>
+      <webElementGuid>66d5a625-f2d8-4b17-94df-6238a2dbbe42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'txtNppSearchParam']</value>
+      <webElementGuid>c3f4d8fa-d518-4537-9fc9-60035d0e0e27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'txtNppSearchParam']</value>
+      <webElementGuid>7aeb42d9-8dec-4b0b-9a41-b03c2b96043d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

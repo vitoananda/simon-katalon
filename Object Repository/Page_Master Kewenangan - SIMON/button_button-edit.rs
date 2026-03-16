@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_button-edit</name>
+   <tag></tag>
+   <elementGuidId>39aff112-b590-44fd-9c1b-cdf05b20eb5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' odd ') and (position() = 1)]//*[@id = 'button-edit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.odd:nth-child(1) #button-edit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;+ 1    DOTNET10&quot;i] >> internal:attr=[title=&quot;Ubah Data&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>295775da-8b95-41d0-8888-060a17bfdca0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-small btn-facebook</value>
+      <webElementGuid>6ab6d4d4-5ba9-4515-92c9-54c9d05f5518</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>button-edit</value>
+      <webElementGuid>8980a42b-d6b1-4423-8316-d0ec4891b53a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>5aaaadd1-8a9b-40ff-87f2-878bb0f5806c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tooltip</value>
+      <webElementGuid>9d8ce49f-bbf6-484a-bd96-ab649a155cf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Ubah Data</value>
+      <webElementGuid>92927399-1930-456e-9b7b-ecdbc7f7c83e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-da1f75dcace48bd298bdbf5f1505f174</value>
+      <webElementGuid>83b6d626-1050-4788-bc15-dd32510584e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' odd ') and (position() = 1)]//*[@id = 'button-edit']</value>
+      <webElementGuid>bf05f9b8-612d-4aff-922c-daa850354eec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' odd ') and (position() = 1)]//*[@id = 'button-edit']</value>
+      <webElementGuid>e4942f54-325f-449c-93ee-36976287d843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'button-edit' and @title = 'Ubah Data']</value>
+      <webElementGuid>fa12708a-37e0-4b24-a74e-1674a8b2ba74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

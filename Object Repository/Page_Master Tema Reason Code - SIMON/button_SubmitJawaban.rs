@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SubmitJawaban</name>
+   <tag></tag>
+   <elementGuidId>f711526f-c4fb-41af-8939-0e68d56f9a5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'SubmitJawaban']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#SubmitJawaban</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#SubmitJawaban</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>47ad6b48-f414-4533-b40e-f84f6e59cf58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>c4e34513-5a03-46dd-a3ec-c5199b11c572</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f9d413a5-7a67-4d2c-9980-b1752f2088bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>SubmitJawaban</value>
+      <webElementGuid>f9c53d84-813c-4ab3-967c-5ba683a36956</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Submit
+                            </value>
+      <webElementGuid>8c254127-cca1-4f6d-a3b0-eeb818104c8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-86d32d1f1503180096f6548c0fbe5662</value>
+      <webElementGuid>bfffaa56-4fa9-4aaf-b188-f7f26869e670</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'SubmitJawaban']</value>
+      <webElementGuid>9dbc6abb-b7f3-4c4b-b144-5e7022755fd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'SubmitJawaban']</value>
+      <webElementGuid>0ed64c67-68f0-4f7c-b165-aa2d1d9de355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'SubmitJawaban' and (text() = '
+                                Submit
+                            ' or . = '
+                                Submit
+                            ')]</value>
+      <webElementGuid>f62ebd13-974d-46f0-93b6-3797edb9279b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

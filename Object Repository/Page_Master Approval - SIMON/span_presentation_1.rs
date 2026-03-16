@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_presentation_1</name>
+   <tag></tag>
+   <elementGuidId>4185c09e-ead1-44a5-b299-f4512cbaa6bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-labelledby=&quot;select2-TransaksiId-container&quot;] span[role=&quot;presentation&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'select2-TransaksiId-container']//span[@role = 'presentation']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(4) > .col-sm-10 > .select2 > .selection > .select2-selection > .select2-selection__arrow</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>39b05c9b-7e1f-41d9-9e56-41b6c2b806bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__arrow</value>
+      <webElementGuid>bb97104b-392b-4c6d-8d47-3593486cc81c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>6b692597-5f72-409b-b36a-d8bdbfdfe4da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-983ca8320219ac35a456a33996f75e28</value>
+      <webElementGuid>6cee941d-eeb8-4889-a47d-782b5d9ea62f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'select2-TransaksiId-container']//span[@role = 'presentation']</value>
+      <webElementGuid>cedf2868-7454-4510-bb54-82bc59c4eace</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'select2-TransaksiId-container']//span[@role = 'presentation']</value>
+      <webElementGuid>4922221d-d011-43ed-a356-d7a6e0bb6041</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

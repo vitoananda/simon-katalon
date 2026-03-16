@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SIMON - Approver Korporasi</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3a0a1344-b695-4256-aee3-a5ea5bd5bcdc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>df754ae2-d67c-4498-b067-d692e2bfd901</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>df754ae2-d67c-4498-b067-d692e2bfd901</id>
+      <masked>false</masked>
+      <name>cif</name>
+   </variable>
+</TestCaseEntity>

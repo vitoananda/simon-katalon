@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_select2-Jabatan-container</name>
+   <tag></tag>
+   <elementGuidId>f073e8c6-efd1-4dd0-bdd3-ef7a40a75c44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'select2-Jabatan-container']//*[@aria-readonly = 'true']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-labelledby=&quot;select2-Jabatan-container&quot;] [aria-readonly=&quot;true&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#select2-Jabatan-container</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0229abb0-76c8-4e04-8558-c5179c85f1a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>4538fdde-3660-4084-b202-5881622aa5a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-Jabatan-container</value>
+      <webElementGuid>bbc221ab-39fb-49cd-ac32-150fa6708bf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>textbox</value>
+      <webElementGuid>2c17abd9-1f82-410d-8c2c-f38c264ea88a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-readonly</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3fa1e18e-4f3a-45dc-95f5-2bdf3adeb085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-Silahkan pilih-</value>
+      <webElementGuid>4ffa969e-2291-4cb2-a94c-1a7c3d4c6da1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-4213c2677b2a7827b530c62c7d631a9f</value>
+      <webElementGuid>5a581dae-99f2-4659-a35b-eca2a34fc587</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'select2-Jabatan-container']//*[@aria-readonly = 'true']</value>
+      <webElementGuid>fe0dfa62-bc61-4c3c-a410-e5a37716ec2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'select2-Jabatan-container']//*[@aria-readonly = 'true']</value>
+      <webElementGuid>9d1a6dac-b583-4055-bd47-eaa6458028cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'select2-Jabatan-container' and (text() = '-Silahkan pilih-' or . = '-Silahkan pilih-')]</value>
+      <webElementGuid>9fd88c7f-d207-4442-9b25-46f025a3cd86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

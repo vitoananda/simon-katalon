@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_select2-IdUnit-container</name>
+   <tag></tag>
+   <elementGuidId>727ce7ff-fe6e-4b16-823c-1b765d16df3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-labelledby=&quot;select2-IdUnit-container&quot;] [aria-readonly=&quot;true&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'select2-IdUnit-container']//*[@aria-readonly = 'true']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'select2-IdUnit-container' and (text() = '-Silahkan pilih-' or . = '-Silahkan pilih-')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#select2-IdUnit-container</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>988e82cc-1668-441b-a1b9-868d1145dadb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>dd9282a7-371f-42de-989d-47c0f5ee6205</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-IdUnit-container</value>
+      <webElementGuid>6b26fe57-52f4-42b3-99c8-7877f447cee5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>textbox</value>
+      <webElementGuid>52e2c3c5-1537-4eb6-b68a-ff4ea97d0ba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-readonly</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>16701147-2249-4a3a-86f5-d8741f5378cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-Silahkan pilih-</value>
+      <webElementGuid>879276c0-af16-4e4b-a013-feb7a234761c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-913b23111b45353569057219e7a5105e</value>
+      <webElementGuid>e74f208a-7fc6-44ea-9ef1-89fc1edf8c7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'select2-IdUnit-container']//*[@aria-readonly = 'true']</value>
+      <webElementGuid>02a81b6b-e86c-47f1-a3a2-526b346bb7a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'select2-IdUnit-container']//*[@aria-readonly = 'true']</value>
+      <webElementGuid>24537ed3-d6ac-4847-af52-f15c3a99efbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'select2-IdUnit-container' and (text() = '-Silahkan pilih-' or . = '-Silahkan pilih-')]</value>
+      <webElementGuid>5c7c3469-bdd4-48ea-a510-4d06ef74671f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

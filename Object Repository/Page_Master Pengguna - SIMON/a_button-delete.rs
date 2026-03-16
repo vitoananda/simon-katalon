@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_button-delete</name>
+   <tag></tag>
+   <elementGuidId>4ef85470-962a-49f4-b531-3b7039684928</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#button-delete[title=&quot;Delete\ Data&quot;][href=&quot;\#&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@id = 'button-delete') and (@title = 'Delete Data') and (@href = '#')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>97da40b9-cbdc-4960-8f09-61b3bf4c7cf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>b8965244-b7f4-40f1-bc6f-96e9b3fac418</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-small btn-facebook</value>
+      <webElementGuid>22016d6c-bf7b-4129-9cd0-b458dd9a952d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>button-delete</value>
+      <webElementGuid>7092fead-d7a4-4b5b-9dcc-4552860d39dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>25810</value>
+      <webElementGuid>50a9e09e-06d2-446a-b629-6d3231e3067a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tooltip</value>
+      <webElementGuid>1ece9f13-20a2-4a09-ab7c-3a8a80f46aea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Delete Data</value>
+      <webElementGuid>486926ac-e2c5-48c9-904a-2ccf651e825a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-595cb0a0f2a1df5e098bcb324ba79ac8</value>
+      <webElementGuid>4c6ec51d-9b1b-4d0b-9750-aa49e1bdeab8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@id = 'button-delete') and (@title = 'Delete Data') and (@href = '#')]</value>
+      <webElementGuid>da64d0fa-324f-482b-851b-bbfeb4405674</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@id = 'button-delete') and (@title = 'Delete Data') and (@href = '#')]</value>
+      <webElementGuid>10b6712d-c418-46a5-8609-d9e598e7de0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and @id = 'button-delete' and @title = 'Delete Data']</value>
+      <webElementGuid>3e0cd9d7-3231-4aef-b9cf-43eba11bc53c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

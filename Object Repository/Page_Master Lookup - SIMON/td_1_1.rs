@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_1_1</name>
+   <tag></tag>
+   <elementGuidId>9cfc44ec-88aa-4e14-9738-6083ad9c9db4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' odd ') and contains(concat(' ', normalize-space(@class), ' '), ' parent ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dtr-control ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.odd.parent .dtr-control</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=gridcell[name=&quot;- 1&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>168604ed-ffe0-432a-969b-8173f521a8ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dtr-control</value>
+      <webElementGuid>619e521f-c73f-41e0-9247-abc76368533d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>310eee44-7c9e-4f11-925b-0860b870631f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b72433273285fa014c9769508ef0d61c</value>
+      <webElementGuid>1681046f-15e2-493e-aacb-83f16ceb482c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' odd ') and contains(concat(' ', normalize-space(@class), ' '), ' parent ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dtr-control ')]</value>
+      <webElementGuid>2a8f33a8-5625-4cb3-81a7-6c3f5e8f658f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' odd ') and contains(concat(' ', normalize-space(@class), ' '), ' parent ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dtr-control ')]</value>
+      <webElementGuid>2ac0e19a-0dee-4652-99bb-5a173e3f2e2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '1' or . = '1')]</value>
+      <webElementGuid>0bc63feb-eeb8-4282-8fe1-2845b1616827</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

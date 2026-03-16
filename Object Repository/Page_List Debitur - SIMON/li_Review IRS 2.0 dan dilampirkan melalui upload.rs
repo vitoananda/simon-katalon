@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Review IRS 2.0 dan dilampirkan melalui upload</name>
+   <tag></tag>
+   <elementGuidId>3c82665a-1c13-465a-af79-a1995483ab18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[role=&quot;option&quot;]:nth-child(1)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@role = 'option') and (position() = 1)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;Review IRS 2.0 dan dilampirkan melalui upload dokumen dengan format PDF&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>db051be2-8ed6-44fb-8886-49f364b32dc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>983aa370-5f61-43f1-bb1b-255942ca9b25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>c8e5a45f-2695-4699-b25d-f53b82ebbb1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>8dd6bcc6-b269-4854-9728-46e1af2a2b82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>67</value>
+      <webElementGuid>bbac0766-14a7-4efb-80d5-3ded5feceba4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Review IRS 2.0 dan dilampirkan melalui upload dokumen dengan format PDF</value>
+      <webElementGuid>bd6b868a-68d2-413b-8ace-215a0ca405d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b5a7388a68fb2b08bb910a353a5f5f6b</value>
+      <webElementGuid>2aac39c7-7425-4a53-bbbe-6607d058caca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@role = 'option') and (position() = 1)]</value>
+      <webElementGuid>bc6cf09f-0d2a-4630-b77f-13b0e2393c01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@role = 'option') and (position() = 1)]</value>
+      <webElementGuid>3a73e613-291f-4b65-bdda-eb3a8ba5e0ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Review IRS 2.0 dan dilampirkan melalui upload dokumen dengan format PDF' or . = 'Review IRS 2.0 dan dilampirkan melalui upload dokumen dengan format PDF')]</value>
+      <webElementGuid>cea4f931-6cec-4bfc-a4bf-101865fbbb96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

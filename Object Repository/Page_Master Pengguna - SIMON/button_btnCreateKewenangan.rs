@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_btnCreateKewenangan</name>
+   <tag></tag>
+   <elementGuidId>df1c0d40-ed7d-486b-8733-f3c3b0112df6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btnCreateKewenangan</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'btnCreateKewenangan']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'btnCreateKewenangan' and (text() = '
+                                Submit
+                            ' or . = '
+                                Submit
+                            ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#btnCreateKewenangan</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9883b8b3-2c87-4a0a-ad47-c43a90d9a2a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>fd40a375-521f-4837-885a-c1bc0c3bdc68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>be53d9c2-fb11-4815-b19d-c3e747520747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnCreateKewenangan</value>
+      <webElementGuid>348655e5-389f-478e-bf21-ce1c168e182f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Submit
+                            </value>
+      <webElementGuid>5065a5ec-2f05-4690-9056-06568453a134</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-ab96e2d83f6faaad8ceb258ebd5f7df2</value>
+      <webElementGuid>c56a95f5-70c7-4dab-841b-629ab572514d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'btnCreateKewenangan']</value>
+      <webElementGuid>49a4be5f-836b-4adc-9dc2-0ed2b8f64d8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'btnCreateKewenangan']</value>
+      <webElementGuid>6c312e61-3660-458c-b0ad-6ec8d9300042</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'btnCreateKewenangan' and (text() = '
+                                Submit
+                            ' or . = '
+                                Submit
+                            ')]</value>
+      <webElementGuid>47f8923c-3f94-4a77-8a0a-d261cbec3f11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

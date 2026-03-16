@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_9</name>
+   <tag></tag>
+   <elementGuidId>cfbaccf2-7315-4e61-9b75-283b480a1a5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-child(2) [data-handler=&quot;selectDay&quot;]:nth-child(2) .ui-state-default[href=&quot;\#&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'tr') and (position() = 2)]//*[(@data-handler = 'selectDay') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ui-state-default ') and (@href = '#')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '#' and (text() = '9' or . = '9')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;9&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>040ac4ff-c2de-4075-a2e2-7c381a56ca15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-state-default</value>
+      <webElementGuid>e38f7cd5-216c-4854-b4a6-9b3fdf97d5d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>89d5dde6-7399-46d5-9ec2-728fbef0769b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>9</value>
+      <webElementGuid>6cc7673f-3c34-4806-94df-8625780e6195</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-61abf04a821f449eec73357f3b4f527c</value>
+      <webElementGuid>105c3bb2-11a8-4b4f-bad2-508ae8aa7075</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'tr') and (position() = 2)]//*[(@data-handler = 'selectDay') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ui-state-default ') and (@href = '#')]</value>
+      <webElementGuid>b3559d50-1180-4373-bf05-8582dac5ea31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'tr') and (position() = 2)]//*[(@data-handler = 'selectDay') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ui-state-default ') and (@href = '#')]</value>
+      <webElementGuid>a32cde4f-67d8-416d-b81a-5cf53008439e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '9' or . = '9')]</value>
+      <webElementGuid>d9d0273e-4b25-4993-9db2-c3649a87871e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

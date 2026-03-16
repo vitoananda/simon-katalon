@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_62010 - SISKA WIDYAH FITRIYANI - Corporate Ba</name>
+   <tag></tag>
+   <elementGuidId>e52bd31d-2862-4557-85e4-2baff34a7b6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[role=&quot;option&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@role = 'option']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;62010 - SISKA WIDYAH FITRIYANI - Corporate Banking 3&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>e023ec5d-a946-4823-8445-7e14628e9305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>77182e1c-5e51-493b-a5c5-d4a412c46e4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>9279a512-d677-453a-b594-a9e62811e80c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>15226535-7192-4f9b-a3bc-53048c824fce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>206</value>
+      <webElementGuid>cbd840a1-ffae-4421-90bb-2e2f10eb76f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>62010 - SISKA WIDYAH FITRIYANI - Corporate Banking 3</value>
+      <webElementGuid>a4abab4c-c529-488e-b2ec-2d76f5b145f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-aa05a2136210d9be8768266b332a2787</value>
+      <webElementGuid>78cd409b-3a75-4ea3-a9f3-50c9b6ad9bed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@role = 'option']</value>
+      <webElementGuid>c3922184-b1fe-4a0f-b517-9da8b0d49873</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@role = 'option']</value>
+      <webElementGuid>82ba0813-5675-44af-9095-cc2cdbea5454</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '62010 - SISKA WIDYAH FITRIYANI - Corporate Banking 3' or . = '62010 - SISKA WIDYAH FITRIYANI - Corporate Banking 3')]</value>
+      <webElementGuid>91782355-fb1d-4839-a485-2b6801a546eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

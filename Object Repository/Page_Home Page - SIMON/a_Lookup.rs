@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lookup</name>
+   <tag></tag>
+   <elementGuidId>dbf2a7a8-9141-45ef-bf80-9016586159a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;\.\.\/PengaturanMenu\/Index&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = '../PengaturanLookup/Index']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Menu&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1530e27b-b969-48d8-a261-b0267d705777</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>../PengaturanMenu/Index</value>
+      <webElementGuid>0f94bbfd-fc18-4e37-9e72-6a64d873e422</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link child-Menu active</value>
+      <webElementGuid>d7c89031-6dde-4e87-8567-2215c909b245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Menu</value>
+      <webElementGuid>56f9106f-8d58-4ac4-b877-9a7c8f37edf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-eecfa5954c837faf08c8dfd39eb791a8</value>
+      <webElementGuid>fe30abe6-deff-4609-9361-83362e92b3e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = '../PengaturanMenu/Index']</value>
+      <webElementGuid>1ab2868f-39d3-4898-8c55-79f0382d7bcb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = '../PengaturanMenu/Index']</value>
+      <webElementGuid>7cf869d7-bed3-42a9-a65f-abbffbb89332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '../PengaturanMenu/Index' and (text() = 'Menu' or . = 'Menu')]</value>
+      <webElementGuid>3eb05f23-67d8-4275-98cc-aa5d3f2bc5c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

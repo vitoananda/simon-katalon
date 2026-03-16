@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Monitoring jaminan bergerak dan tidak bergera</name>
+   <tag></tag>
+   <elementGuidId>77d28b3c-de11-4dc1-854c-388748943a94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[role=&quot;option&quot;]:nth-child(4)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@role = 'option') and (position() = 4)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;Monitoring jaminan bergerak dan tidak bergerak, termasuk verifikasi penilaian jaminan, dan pemantauan kesempurnaan pengikatan jaminan. Dilampirkan melalui upload dokumen dengan format PDF&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>b321b2dc-b777-46a1-ab7f-b32cdf257e9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>bfa57f0b-d7c3-439c-acda-cc63b0665620</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>eca41e83-1d6d-4e45-86fe-9814fa925374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>3fab317e-489d-4d6f-80b5-4116d67a22f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>106</value>
+      <webElementGuid>013a4d69-a9ab-422b-9057-e828f05c5ff1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Monitoring jaminan bergerak dan tidak bergerak, termasuk verifikasi penilaian jaminan, dan pemantauan kesempurnaan pengikatan jaminan. Dilampirkan melalui upload dokumen dengan format PDF</value>
+      <webElementGuid>7334b3e0-3a92-42a4-9784-9b3be0d499b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a2fc4237b447912142f8e47f1e5d0571</value>
+      <webElementGuid>80e5fc9c-3952-44f8-8893-b8ee9cc23dfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@role = 'option') and (position() = 4)]</value>
+      <webElementGuid>06699922-ca95-48fb-91e0-67f4f0bad40a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@role = 'option') and (position() = 4)]</value>
+      <webElementGuid>a33728bd-f30f-4181-aff3-0596495a9ec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Monitoring jaminan bergerak dan tidak bergerak, termasuk verifikasi penilaian jaminan, dan pemantauan kesempurnaan pengikatan jaminan. Dilampirkan melalui upload dokumen dengan format PDF' or . = 'Monitoring jaminan bergerak dan tidak bergerak, termasuk verifikasi penilaian jaminan, dan pemantauan kesempurnaan pengikatan jaminan. Dilampirkan melalui upload dokumen dengan format PDF')]</value>
+      <webElementGuid>7fc50d77-144a-43b9-9fe6-a61ed146880e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

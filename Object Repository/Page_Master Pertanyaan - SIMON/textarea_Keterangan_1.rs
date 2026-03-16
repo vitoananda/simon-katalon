@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Keterangan_1</name>
+   <tag></tag>
+   <elementGuidId>837e1d5f-23c5-4c15-92a0-3b12bd7a5c13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-group ') and (position() = 9)]//*[@id = 'Keterangan']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.form-group:nth-child(9) #Keterangan</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#FormDataJawaban #Keterangan</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>f4090891-e1ff-45cc-b456-52f2197c5b4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>0e3fd56f-d56e-47cb-b2ce-fe529c03f5ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control custom-mrgnbttm</value>
+      <webElementGuid>7002e2b2-e658-4304-ab6c-b287b3e01469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Keterangan</value>
+      <webElementGuid>83057cd3-d518-489a-904a-1e7ffa1f0b54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Keterangan</value>
+      <webElementGuid>c2b7ff19-f0f5-4e42-b6fe-56b2a0910709</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>required</name>
+      <type>Main</type>
+      <value>True</value>
+      <webElementGuid>6dccd2d2-8c9c-4f04-b3bb-57a56bc670c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>21249eb8-c697-47c9-b223-2cfd6574fd9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-44551f6d24454bd6c395ca7eb1cbd2ed</value>
+      <webElementGuid>f837929b-6f1f-40e5-855f-30e490e8d585</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-group ') and (position() = 9)]//*[@id = 'Keterangan']</value>
+      <webElementGuid>e62a041d-e0c6-4e04-bbfe-9923648bd45b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-group ') and (position() = 9)]//*[@id = 'Keterangan']</value>
+      <webElementGuid>b5056fc9-2185-4019-a971-50931fab132d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'Keterangan' and @name = 'Keterangan']</value>
+      <webElementGuid>89b34628-e449-4b12-b790-afade8e79f0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_CreateJawabanBtn</name>
+   <tag></tag>
+   <elementGuidId>beb7a8c9-a0ab-4c19-becc-7d32c1777b2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'CreateJawabanBtn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#CreateJawabanBtn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Tambah Data&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0f443e75-9efb-4b93-be7c-ad0ce1daf627</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>CreateJawabanBtn</value>
+      <webElementGuid>4a8b4b41-66be-466d-8a45-760c7bb72225</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-info mb-2</value>
+      <webElementGuid>4e2e3b0b-4e91-45b6-8e79-5b06099b80ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>685020c7-67b8-42d2-80f8-315d21cf34b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Data</value>
+      <webElementGuid>624e5a64-59ae-4710-bdd0-4a2f68c1b61b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-39f1666d59ae026127c8ef0678979436</value>
+      <webElementGuid>1b0a96d1-351e-4bb1-af50-600de09d9568</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'CreateJawabanBtn']</value>
+      <webElementGuid>14ab1dd0-2abc-4368-8edc-61751c04b912</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'CreateJawabanBtn']</value>
+      <webElementGuid>22636b3c-5080-4a8b-b5f3-aa6e5f6aa935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'CreateJawabanBtn' and @href = '#' and (text() = 'Tambah Data' or . = 'Tambah Data')]</value>
+      <webElementGuid>61fa8dd1-5e2e-416e-a53b-65ce60c2f145</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

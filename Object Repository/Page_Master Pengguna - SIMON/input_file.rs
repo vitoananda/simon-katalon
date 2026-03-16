@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_file</name>
+   <tag></tag>
+   <elementGuidId>27a6a1f9-16cf-4f62-a17b-fb66a56b44f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#file</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'file']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#file</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e5b677c8-c2b7-488d-a6ad-7fb5b834b8f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-allowed-file-extensions</name>
+      <type>Main</type>
+      <value>[&quot;pdf&quot;, &quot;PDF&quot;, &quot;Pdf&quot;]</value>
+      <webElementGuid>4823a3c3-77a6-495b-bc88-a726520e9802</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>0d1f3349-7655-434f-a925-dab31707bce8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control dropify</value>
+      <webElementGuid>bd7c6c14-9996-44bc-ae20-0899def39223</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>15d97418-c67a-47b7-9b00-a04cbf454929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b5671266dfec9229443d9a50fa8e8049</value>
+      <webElementGuid>d1be294f-785c-41a3-ae88-598dc0f146be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'file']</value>
+      <webElementGuid>8ac673c2-8c84-45b6-9f73-ba271bb47341</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'file']</value>
+      <webElementGuid>6983e8ea-bb0f-43c7-a8e9-b0dd05f00ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'file' and @type = 'file']</value>
+      <webElementGuid>ae55c7f9-09e4-4cef-b80e-6b83c239a89d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

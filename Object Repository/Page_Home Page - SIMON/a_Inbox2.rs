@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Inbox2</name>
+   <tag></tag>
+   <elementGuidId>be718b4c-0e37-4f69-9095-a7f07634ddb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.nav-link[href=&quot;\.\.\/Inbox\/Index&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-link ') and (@href = '../Inbox/Index')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Inbox 2&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7252d899-0314-41fd-af45-82c60b52bd64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>../Inbox/Index</value>
+      <webElementGuid>f0e4c173-683e-4f52-8018-48d985295a87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link child-Menu active</value>
+      <webElementGuid>9c0c3263-a709-456f-b438-ee5248b9617e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                Inbox2
+                                            </value>
+      <webElementGuid>b943226c-2239-4251-bb51-6fa9bcf50ac0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-4f237a79f278dcff3b21860c2661b190</value>
+      <webElementGuid>354a580a-cf4c-4cd4-be79-cfb9274d2d84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-link ') and (@href = '../Inbox/Index')]</value>
+      <webElementGuid>bac18d71-1f6a-464f-a4bc-f1a3a30022b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' nav-link ') and (@href = '../Inbox/Index')]</value>
+      <webElementGuid>08ff5034-4a2e-46c2-b05f-72104c672810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '../Inbox/Index' and (text() = '
+                                                Inbox2
+                                            ' or . = '
+                                                Inbox2
+                                            ')]</value>
+      <webElementGuid>408a4ab9-d6e8-4daf-8824-3388c3bd45e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

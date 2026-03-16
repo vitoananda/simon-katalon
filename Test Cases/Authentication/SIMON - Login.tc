@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SIMON - Login</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>35a20b20-5ac8-4e11-9fab-af0fd4cbd9d4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>645b335f-eed9-48af-9a2f-cde5e6941ca2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>645b335f-eed9-48af-9a2f-cde5e6941ca2</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

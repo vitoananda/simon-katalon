@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_file_kewenangan</name>
+   <tag></tag>
+   <elementGuidId>3cdd0703-3d4f-4889-acda-61a49903f8dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#file_kewenangan</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'file_kewenangan']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#file_kewenangan</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1803f014-0bd9-464a-9db8-0906b6d94612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>35abd9dd-b802-4efd-b303-6ec0ced096b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control dropify</value>
+      <webElementGuid>b357bb76-0435-42bd-9492-32e77747856b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>file_kewenangan</value>
+      <webElementGuid>0ac5670e-6376-447b-a4fb-94dd3cef930e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-allowed-file-extensions</name>
+      <type>Main</type>
+      <value>[&quot;pdf&quot;, &quot;PDF&quot;, &quot;Pdf&quot;]</value>
+      <webElementGuid>6e34b05c-b744-494a-b71a-a688143fc5b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c2f536d03bbab44be8b4ebbfbb5c2982</value>
+      <webElementGuid>3033b906-c461-42ac-8045-4874de5cc991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'file_kewenangan']</value>
+      <webElementGuid>926c72a9-8ad4-4304-bc7f-7da18a129781</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'file_kewenangan']</value>
+      <webElementGuid>90cf68fc-603b-4fb7-a5d3-3d7a2f3cbd0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'file' and @id = 'file_kewenangan']</value>
+      <webElementGuid>c7fcfe06-4834-45e0-b7c6-ac6e613d512b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_modaltxtDateEnd</name>
+   <tag></tag>
+   <elementGuidId>f10790f8-c3c9-4198-8098-6db5bd33aa71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#modaltxtDateEnd</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'modaltxtDateEnd']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @id = 'modaltxtDateEnd']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#modaltxtDateEnd</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>fb305358-8def-47b4-9147-caec15529219</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>03f2211b-8008-4182-8eb5-bbbbb4b76726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control custom-bckgrndclrwht hasDatepicker</value>
+      <webElementGuid>5dd32e4b-f148-49ce-93e2-fd828a08ddd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>modaltxtDateEnd</value>
+      <webElementGuid>5ab2ec96-bd31-4409-b177-1d7bdf8595ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>readonly</name>
+      <type>Main</type>
+      <value>readonly</value>
+      <webElementGuid>d9112551-2db4-4856-9316-4844a39eedd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c24a8730be58e0e13a3391fc67077e13</value>
+      <webElementGuid>7f52642b-6579-4f2e-8443-374e8f056f03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'modaltxtDateEnd']</value>
+      <webElementGuid>c0c0814f-badd-42ce-9cd5-2e7887eb5774</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'modaltxtDateEnd']</value>
+      <webElementGuid>77501f0b-9bed-41de-86c3-56ce547837bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'modaltxtDateEnd']</value>
+      <webElementGuid>aad70416-b864-4c7c-854f-b625ccbeecf4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

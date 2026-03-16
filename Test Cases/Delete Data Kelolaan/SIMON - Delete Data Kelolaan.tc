@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SIMON - Delete Data Kelolaan</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c83b0040-8253-4aaf-b7a5-286aaeb86638</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a2a0decd-9c0d-4fb1-9277-943849684a61</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a2a0decd-9c0d-4fb1-9277-943849684a61</id>
+      <masked>false</masked>
+      <name>cif</name>
+   </variable>
+</TestCaseEntity>

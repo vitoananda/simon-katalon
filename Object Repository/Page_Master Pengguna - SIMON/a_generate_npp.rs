@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_generate_npp</name>
+   <tag></tag>
+   <elementGuidId>923b39b5-4e31-4b5e-85ff-91529d108be2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#generate_npp</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'generate_npp']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'generate_npp' and @href = '#' and (text() = 'Generate NPP' or . = 'Generate NPP')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Generate NPP&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a57b838b-5d10-4f13-8926-1ec2690e6499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>generate_npp</value>
+      <webElementGuid>62136a8f-df63-4b1f-899b-12afd01a60b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>fe6c22c9-65d4-4925-928e-8c16eb72f462</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>31c93d2a-aa63-4718-9140-fd481d05e011</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Generate NPP</value>
+      <webElementGuid>8b6c8029-073a-458c-a63b-9ef0638fac75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-3e2e9e5c34edef8059305301033c51e4</value>
+      <webElementGuid>bb512f7d-7aff-47d6-9119-fc5ece77dd1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'generate_npp']</value>
+      <webElementGuid>4d7cc9fe-7bf7-47ee-8a98-6c834ef4ec6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'generate_npp']</value>
+      <webElementGuid>d423587b-31c4-4cd1-a1d2-0a8f5402e594</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'generate_npp' and @href = '#' and (text() = 'Generate NPP' or . = 'Generate NPP')]</value>
+      <webElementGuid>998b9325-1c36-4274-82bf-878de644f445</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
