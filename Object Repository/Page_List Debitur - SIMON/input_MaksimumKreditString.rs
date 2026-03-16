@@ -6,12 +6,16 @@
    <elementGuidId>69b12ceb-4102-4e02-baf4-bdbb82757bf9</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'MaksimumKreditString']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#MaksimumKreditString</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id = 'MaksimumKreditString']</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @name = 'MaksimumKreditString' and @id = 'MaksimumKreditString']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>78ed3f13-7071-4f03-9a00-f532cc3f2d96</webElementGuid>
+      <webElementGuid>6dae3361-f60f-4751-9a7e-0155a4de41ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>4ac99e12-7bf1-4122-a976-e80c238befe7</webElementGuid>
+      <webElementGuid>e0cf2cdc-28f9-4911-a311-543e97f45a55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>required</name>
       <type>Main</type>
       <value>True</value>
-      <webElementGuid>ec93c3ca-fa82-4401-9627-6d1a75e69bee</webElementGuid>
+      <webElementGuid>61e0c191-da43-4ac0-9ef8-638760fb5baa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +57,7 @@
       <name>name</name>
       <type>Main</type>
       <value>MaksimumKreditString</value>
-      <webElementGuid>3ac9814e-cb7c-40dc-8234-706681ac7f13</webElementGuid>
+      <webElementGuid>b97cfc5f-098a-4bed-a373-4309efa8ecc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +65,7 @@
       <name>id</name>
       <type>Main</type>
       <value>MaksimumKreditString</value>
-      <webElementGuid>a593a59f-f32a-4462-a15f-fb58a97e9c45</webElementGuid>
+      <webElementGuid>759f63a3-0ddd-41b4-a3cc-6d65d892532e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>16342285-7f2a-444c-8acd-ec3bc0b8dd80</webElementGuid>
+      <webElementGuid>ddec69e6-2d0b-43e4-8c8b-cfb8b9598f50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>26ecb972-db72-4d66-8e08-a50a9907d81a</webElementGuid>
+      <webElementGuid>765f4968-1d73-4c39-ad7a-a6e7b18e31d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-c314a4302a5bd4e4a93e29686c418eb4</value>
-      <webElementGuid>b7e30c58-a68b-4083-a0bc-fe1b3fb5e2fc</webElementGuid>
+      <webElementGuid>65d6dfd3-169f-4186-a6fa-bf7895ae44a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'MaksimumKreditString']</value>
-      <webElementGuid>1626ec8e-f77a-47d5-98fa-b66fd4168606</webElementGuid>
+      <webElementGuid>8b189b74-b01f-48c2-8dce-4c7542e3dfd4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +105,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'MaksimumKreditString']</value>
-      <webElementGuid>9b4c28b9-1215-48e3-a592-b75612f1afef</webElementGuid>
+      <webElementGuid>18438e64-6303-4a4e-af83-9c41f68c7ed5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +113,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'MaksimumKreditString' and @id = 'MaksimumKreditString']</value>
-      <webElementGuid>ba811ea0-6648-403d-9cfc-f0472652bc60</webElementGuid>
+      <webElementGuid>2ae8e587-65ce-4ff7-a613-22be0430c357</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

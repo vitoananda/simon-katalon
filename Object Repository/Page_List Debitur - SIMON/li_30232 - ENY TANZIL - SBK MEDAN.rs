@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_30232 - ENY TANZIL - SBK MEDAN</name>
+   <tag></tag>
+   <elementGuidId>7cd1373f-d7bb-465a-9881-e4e1663ae6bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@role = 'option') and (position() = 24)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[role=&quot;option&quot;]:nth-child(24)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;30232 - ENY TANZIL - SBK MEDAN&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>39e5d8d9-436d-41e8-a452-2d00f5d924a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>0df88f2d-1ee8-4ce5-b04b-68ab4dc8c8b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>5efbf04f-8045-494e-9351-4df2dd0df55f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>55bcc459-4444-4bc4-ae28-e932f0ad513f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>173</value>
+      <webElementGuid>2a3ec4a8-888b-48bd-b01e-7757a230cbcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>30232 - ENY TANZIL - SBK MEDAN</value>
+      <webElementGuid>a86355f6-0149-43a6-a5e3-8807d9f4ba77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-5b92b754b4859096a7bd917d4caf0c17</value>
+      <webElementGuid>aadd1d54-bab6-4585-ae6c-b8ea12a503c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@role = 'option') and (position() = 24)]</value>
+      <webElementGuid>3cc4a958-1965-4726-9224-960576f09e87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@role = 'option') and (position() = 24)]</value>
+      <webElementGuid>1dc393c6-fc6a-48b8-a160-346e36159f82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '30232 - ENY TANZIL - SBK MEDAN' or . = '30232 - ENY TANZIL - SBK MEDAN')]</value>
+      <webElementGuid>13c6c02f-7429-4aa1-bdd4-6920006b3e68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

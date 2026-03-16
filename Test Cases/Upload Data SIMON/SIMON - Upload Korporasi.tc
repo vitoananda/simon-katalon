@@ -13,11 +13,24 @@
       <value></value>
       <variableId>953b8d83-a03e-4be0-be67-29919e6dd5a5</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8bc2e328-d6db-4b43-925d-452d5afff31b</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
       <id>953b8d83-a03e-4be0-be67-29919e6dd5a5</id>
       <masked>false</masked>
       <name>filePath</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8bc2e328-d6db-4b43-925d-452d5afff31b</id>
+      <masked>false</masked>
+      <name>segmen</name>
    </variable>
 </TestCaseEntity>

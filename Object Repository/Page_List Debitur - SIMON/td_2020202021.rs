@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_2020202021</name>
+   <tag></tag>
+   <elementGuidId>142dc0c5-ae68-43eb-82cb-e802bfb9cd8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'TableBelumDiniali']//*[(name() = 'td') and (position() = 7)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#TableBelumDiniali td:nth-child(7)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=gridcell[name=&quot;2020202021&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>85185796-a073-478b-a32e-8d88b81af303</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2020202021</value>
+      <webElementGuid>2ab89533-043d-41ce-bb8a-066ac7f96076</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-675b88ec1ec6445635cbb589bcc3199b</value>
+      <webElementGuid>837ae28c-bc21-45d5-97a2-515ce11e63ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'TableBelumDiniali']//*[(name() = 'td') and (position() = 7)]</value>
+      <webElementGuid>09f31b01-c33d-4994-b085-14b90b1ea88d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'TableBelumDiniali']//*[(name() = 'td') and (position() = 7)]</value>
+      <webElementGuid>60d1ba86-679d-4f40-aca1-acc1e0390b5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '2020202021' or . = '2020202021')]</value>
+      <webElementGuid>22aecd0e-f066-4fd4-a719-056e96adc5e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

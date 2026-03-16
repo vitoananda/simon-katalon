@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>Inputter Login - Korporasi</name>
+   <name>Komersial Kuning CIF</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>2324181a-c648-4e6b-abfa-82eaa6a53862</dataFileGUID>
+   <dataFileGUID>28f2eea3-dfd8-40ad-9763-516f019d0f32</dataFileGUID>
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
-   <data>62808</data>
+   <data>2020202022</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
-      <name>username</name>
+      <name>cif</name>
       <size>1</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>

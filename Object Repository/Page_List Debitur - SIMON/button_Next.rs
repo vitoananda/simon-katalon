@@ -6,12 +6,16 @@
    <elementGuidId>53990756-ead0-44ae-821f-aaaf1c5a4de6</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ') and contains(concat(' ', normalize-space(@class), ' '), ' sw-btn-next ')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>.btn.sw-btn-next</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ') and contains(concat(' ', normalize-space(@class), ' '), ' sw-btn-next ')]</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Next' or . = 'Next')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>93f9d813-fa95-44e4-a886-46dec05cf13f</webElementGuid>
+      <webElementGuid>6176c7a8-789a-4b58-a6af-263823778af6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn sw-btn-next</value>
-      <webElementGuid>7a27a7cb-3b2f-41c7-9420-97325f70aa6f</webElementGuid>
+      <webElementGuid>09d488f6-bab4-4f91-ac70-980878843145</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f400ec79-a27d-4a50-835b-4388e93e19cd</webElementGuid>
+      <webElementGuid>908b4502-74dc-4509-8451-1fba70a1c7cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Next</value>
-      <webElementGuid>acdbb43d-953b-4840-99cf-c550ab69dfa3</webElementGuid>
+      <webElementGuid>81576e33-cb65-43ba-bc91-0c5ae41b77da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-8a7a91ec8249b030da34888d3e051dea</value>
-      <webElementGuid>ce4a59c9-d6c9-493b-8de4-a9116276c33a</webElementGuid>
+      <webElementGuid>82651310-7fb6-4126-a2d9-8c59bf2f5df8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ') and contains(concat(' ', normalize-space(@class), ' '), ' sw-btn-next ')]</value>
-      <webElementGuid>600d9fab-74c9-4744-8298-d876c5bf5604</webElementGuid>
+      <webElementGuid>40237c4a-d479-4edd-a242-680c1e544f88</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ') and contains(concat(' ', normalize-space(@class), ' '), ' sw-btn-next ')]</value>
-      <webElementGuid>0a826fc1-9d18-423a-b8f0-005db2954843</webElementGuid>
+      <webElementGuid>0c70554e-f3fb-474b-a525-2f7e6ffef2da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Next' or . = 'Next')]</value>
-      <webElementGuid>3ac819cb-8ee2-4abc-8988-8a4f0f277ab4</webElementGuid>
+      <webElementGuid>46225468-0836-447b-9b11-d7d7fe6eebfc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>SIMON - Inputter Korporasi (62808)</name>
+   <name>SIMON - Inputter Korporasi</name>
    <tag></tag>
    <comment></comment>
    <origin>WEB_RECORDER</origin>
@@ -19,6 +19,12 @@
       <value></value>
       <variableId>f1df2a5d-a971-4185-bc0e-3c5730fad108</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>21a045a2-ca2f-4780-a340-2cc42c75a5e9</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
@@ -32,5 +38,12 @@
       <id>f1df2a5d-a971-4185-bc0e-3c5730fad108</id>
       <masked>false</masked>
       <name>cif</name>
+   </variable>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>21a045a2-ca2f-4780-a340-2cc42c75a5e9</id>
+      <masked>false</masked>
+      <name>hijau</name>
    </variable>
 </TestCaseEntity>

@@ -6,12 +6,30 @@
    <elementGuidId>4d7877b4-02ff-4c95-ad7b-8a4a09476483</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' swal-overlay ')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>.swal-overlay</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' swal-overlay ')]</value>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+  
+    
+    
+
+    
+    
+  SuksesData berhasil disimpan!' or . = '
+  
+    
+    
+
+    
+    
+  SuksesData berhasil disimpan!')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +47,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>bc236e13-c44d-429c-bcb5-adcc3e08bccb</webElementGuid>
+      <webElementGuid>8d85535d-53cf-4cb0-aba8-2a4ca41068dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +55,7 @@
       <name>class</name>
       <type>Main</type>
       <value>swal-overlay swal-overlay--show-modal</value>
-      <webElementGuid>e3749213-513d-474b-bf69-a41e46b9ac6f</webElementGuid>
+      <webElementGuid>751337dc-edef-4102-8c34-a29d358c39a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +63,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>4746412c-115b-4567-87ac-726210bc60b6</webElementGuid>
+      <webElementGuid>80e49253-9ea9-43b2-bc6b-a5c50d561d3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -60,7 +78,7 @@
     
     
   SuksesData berhasil disimpan!</value>
-      <webElementGuid>7a2e2d17-c8b6-4018-b405-48a2a56bfce8</webElementGuid>
+      <webElementGuid>499e2e5e-fba2-40fc-93f6-8b72e169394d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +86,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-056289e310519315a863b21aa38bde9d</value>
-      <webElementGuid>101b7330-487e-413f-89c7-c68cbf56a63b</webElementGuid>
+      <webElementGuid>4c674796-d0f8-41aa-b75f-b4b7935f6c08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' swal-overlay ')]</value>
-      <webElementGuid>b7351785-1227-43be-9718-e570ef98c3a1</webElementGuid>
+      <webElementGuid>ef45cc3f-832d-43d5-abdf-9855a3274d82</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' swal-overlay ')]</value>
-      <webElementGuid>c1129851-65e2-47d6-afa7-df4b4f623c4e</webElementGuid>
+      <webElementGuid>1c2a2e45-a1be-4fc0-844b-aa73df881b39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +124,6 @@
     
     
   SuksesData berhasil disimpan!')]</value>
-      <webElementGuid>f0986adf-fa2a-49f3-99d9-50b7d211d716</webElementGuid>
+      <webElementGuid>5b8b7211-f50c-446a-808b-2ba018ad67d1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

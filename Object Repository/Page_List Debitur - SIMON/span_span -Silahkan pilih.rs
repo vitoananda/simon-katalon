@@ -6,12 +6,16 @@
    <elementGuidId>2d72601e-e501-4797-b9a9-e03eeb55d6c4</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'select2-IdAktivitas-container']//*[@aria-readonly = 'true']//span</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>[aria-labelledby=&quot;select2-IdAktivitas-container&quot;] [aria-readonly=&quot;true&quot;] span</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@aria-labelledby = 'select2-IdAktivitas-container']//*[@aria-readonly = 'true']//span</value>
+         <key>BASIC</key>
+         <value>//*[(text() = '-Silahkan pilih-' or . = '-Silahkan pilih-')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>9575e9f2-0242-47e8-a4ce-f0abcabff380</webElementGuid>
+      <webElementGuid>edddff8c-632e-4226-91dd-0b9f0127f4ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__placeholder</value>
-      <webElementGuid>7c57e1a4-6632-49fd-a2c4-b4f4b5b705b8</webElementGuid>
+      <webElementGuid>21f6faa3-08c7-4d34-aad1-957ba137c726</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>text</name>
       <type>Main</type>
       <value>-Silahkan pilih-</value>
-      <webElementGuid>529be03e-9b62-4c1e-9447-26674b8c9703</webElementGuid>
+      <webElementGuid>b2d51f7d-0804-47c2-9586-362dbe365200</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-032cf8e947508dfde40e3aa5f822c1d2</value>
-      <webElementGuid>e2aecc5e-0807-461c-b7ea-59de104fde52</webElementGuid>
+      <webElementGuid>6ddce942-9083-4001-95e5-4a08eed055c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@aria-labelledby = 'select2-IdAktivitas-container']//*[@aria-readonly = 'true']//span</value>
-      <webElementGuid>cc7f5642-1dab-459f-889f-045085e94861</webElementGuid>
+      <webElementGuid>b34692b0-a506-42e3-b9eb-cd1e3b75059a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@aria-labelledby = 'select2-IdAktivitas-container']//*[@aria-readonly = 'true']//span</value>
-      <webElementGuid>acc29b65-3d56-442f-bb02-1bef50738a97</webElementGuid>
+      <webElementGuid>2c2ed7c1-cc38-4a4d-8808-d69cf9bd77cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +81,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = '-Silahkan pilih-' or . = '-Silahkan pilih-')]</value>
-      <webElementGuid>d9e1eb70-ac0f-4135-b191-96d9e1cfd0da</webElementGuid>
+      <webElementGuid>9566be23-0fb4-4664-8b58-3d36435621d5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

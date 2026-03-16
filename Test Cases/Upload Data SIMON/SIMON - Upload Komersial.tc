@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SIMON - Upload Komersial</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e247c75d-c133-4477-be50-2dae0f084ea5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f8489918-acbe-401e-8d9e-77cdcb6237b4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f8489918-acbe-401e-8d9e-77cdcb6237b4</id>
+      <masked>false</masked>
+      <name>filePath</name>
+   </variable>
+</TestCaseEntity>

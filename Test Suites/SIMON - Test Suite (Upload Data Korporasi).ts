@@ -61,6 +61,12 @@
          <value>filePath</value>
          <variableId>953b8d83-a03e-4be0-be67-29919e6dd5a5</variableId>
       </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8bc2e328-d6db-4b43-925d-452d5afff31b</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>9b661df3-3bbf-44c6-a134-9f6602596782</guid>
@@ -103,7 +109,7 @@
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/Inputter Login - Korporasi</testDataId>
+         <testDataId>Data Files/Inputter Korporasi NPP</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -117,7 +123,7 @@
       <guid>770c805e-29e4-4498-ad8d-a1c5a82c9264</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SIMON - Inputter Korporasi (62808)</testCaseId>
+      <testCaseId>Test Cases/Inputter Progress/SIMON - Inputter Korporasi</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>0a45630f-4b7e-4ba2-be8d-e0d066c6f937</id>
@@ -136,6 +142,15 @@
          </iterationEntity>
          <testDataId>Data Files/Korporasi Hijau CIF</testDataId>
       </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ad802caa-c21f-44a8-b258-4d61d50d9c26</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Hijau Conditional Variable</testDataId>
+      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId>0a45630f-4b7e-4ba2-be8d-e0d066c6f937</testDataLinkId>
@@ -148,6 +163,12 @@
          <type>DATA_COLUMN</type>
          <value>cif</value>
          <variableId>f1df2a5d-a971-4185-bc0e-3c5730fad108</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ad802caa-c21f-44a8-b258-4d61d50d9c26</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>hijau</value>
+         <variableId>21a045a2-ca2f-4780-a340-2cc42c75a5e9</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
@@ -169,7 +190,7 @@
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/Approver Bisnis Login - Korporasi</testDataId>
+         <testDataId>Data Files/Approver Bisnis Korporasi NPP</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -183,12 +204,21 @@
       <guid>5e9dd62c-3cec-486e-91f8-a8592605daaa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SIMON - Approver Korporasi</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <testCaseId>Test Cases/Approver Progress/SIMON - Approver</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>2923767b-35df-4435-a7af-ba451fb3e26c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Korporasi Hijau CIF</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>2923767b-35df-4435-a7af-ba451fb3e26c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>cif</value>
          <variableId>df754ae2-d67c-4498-b067-d692e2bfd901</variableId>
       </variableLink>
    </testCaseLink>
@@ -211,7 +241,7 @@
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/Approver Risiko Login - Korporasi</testDataId>
+         <testDataId>Data Files/Approver Risiko Korporasi NPP</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -225,12 +255,21 @@
       <guid>4cbb4d8a-f9d1-401c-a7fa-223b5cf49275</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SIMON - Approver Korporasi</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <testCaseId>Test Cases/Approver Progress/SIMON - Approver</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>50719149-7bbd-43bb-9839-a36db31ba4ea</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Korporasi Hijau CIF</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>50719149-7bbd-43bb-9839-a36db31ba4ea</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>cif</value>
          <variableId>df754ae2-d67c-4498-b067-d692e2bfd901</variableId>
       </variableLink>
    </testCaseLink>

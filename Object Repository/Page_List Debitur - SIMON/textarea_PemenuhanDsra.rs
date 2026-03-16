@@ -6,12 +6,16 @@
    <elementGuidId>97b5a760-d800-4e86-a41f-6bb601809ef1</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'PemenuhanDsra']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#PemenuhanDsra</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id = 'PemenuhanDsra']</value>
+         <key>BASIC</key>
+         <value>//*[@name = 'PemenuhanDsra' and @id = 'PemenuhanDsra']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>bd5cdc51-40b8-4f72-aada-badcf508cd08</webElementGuid>
+      <webElementGuid>9748db4e-aff1-4e09-ae5d-dd6c2a539398</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>required</name>
       <type>Main</type>
       <value>True</value>
-      <webElementGuid>fdb402a8-613d-4f0e-bd94-fb2b141e8b9a</webElementGuid>
+      <webElementGuid>17d9b029-9aeb-47b6-aa26-8742cc75176e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>name</name>
       <type>Main</type>
       <value>PemenuhanDsra</value>
-      <webElementGuid>46a54698-6b8f-4894-a2a0-0d76b602244e</webElementGuid>
+      <webElementGuid>229229c8-109a-4360-861b-7861e162fa4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +57,7 @@
       <name>id</name>
       <type>Main</type>
       <value>PemenuhanDsra</value>
-      <webElementGuid>d3984476-548c-4cec-a104-2e95e63b1d04</webElementGuid>
+      <webElementGuid>9e61d53f-daa9-416b-94c6-7a28063f080d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control custom-hght75px</value>
-      <webElementGuid>16ad5cb1-0612-457f-8706-2916df5bfb32</webElementGuid>
+      <webElementGuid>24721d43-5646-4378-b37f-de75e455f29a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>7f2230fa-6ee7-4a9a-ab90-a90de6c6a88a</webElementGuid>
+      <webElementGuid>c61dbd45-a79b-4b56-a4f8-ed3bb6202110</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-15b46041dbcf3e653a72848339c27590</value>
-      <webElementGuid>6cd39db2-3936-429e-a809-372ed92041cc</webElementGuid>
+      <webElementGuid>bbe635a1-4643-483a-a906-485c1db2c55e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'PemenuhanDsra']</value>
-      <webElementGuid>5adde1c2-4c45-4710-961e-c6b67e8b27e0</webElementGuid>
+      <webElementGuid>568901e2-236a-4cf1-ad3a-c7daa428e2c9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'PemenuhanDsra']</value>
-      <webElementGuid>dad892aa-32e2-4484-bd42-df046d85c9b0</webElementGuid>
+      <webElementGuid>c2248b7c-c979-431c-b4f7-f65190733cc9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@name = 'PemenuhanDsra' and @id = 'PemenuhanDsra']</value>
-      <webElementGuid>6031c2a5-57cd-41b6-a3fc-8a2969537200</webElementGuid>
+      <webElementGuid>a6d118be-c846-49c6-9a0a-8b92b5b06cdd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

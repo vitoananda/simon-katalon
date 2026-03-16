@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_presentation_1</name>
+   <tag></tag>
+   <elementGuidId>d56107b2-eff8-447e-9051-2b970d8b03a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'select2-Approver1-container']//span[@role = 'presentation']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-labelledby=&quot;select2-Approver1-container&quot;] span[role=&quot;presentation&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#FormApprover > div > .col-sm-10 > .select2 > .selection > .select2-selection > .select2-selection__arrow >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fd824e89-cdb3-47a7-ac5e-79c4751686d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__arrow</value>
+      <webElementGuid>e52fed71-5853-4258-a804-08e9bea11916</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>e0b6ae43-abcd-42c9-a6cc-13dd1e1ef903</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-226be005c49071e2f44b683a02402fdc</value>
+      <webElementGuid>d9a4c050-d328-4e6e-92bf-5e9041b1d083</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'select2-Approver1-container']//span[@role = 'presentation']</value>
+      <webElementGuid>916c1801-aa68-439f-b6fd-a696fe1f148e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'select2-Approver1-container']//span[@role = 'presentation']</value>
+      <webElementGuid>b5efd6ad-60ad-4e98-8b26-6400cc64a3f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

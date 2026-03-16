@@ -6,12 +6,16 @@
    <elementGuidId>3da6754c-62bc-42e9-8d33-e6e764874b85</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[(@role = 'option') and (position() = 2)]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>[role=&quot;option&quot;]:nth-child(2)</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[(@role = 'option') and (position() = 2)]</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Monitoring penyaluran mutasi keuangan, efektivitas/kewajaran penggunaan kredit dan dilampirkan melalui upload dokumen dengan format PDF' or . = 'Monitoring penyaluran mutasi keuangan, efektivitas/kewajaran penggunaan kredit dan dilampirkan melalui upload dokumen dengan format PDF')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>ac225c6d-2ffd-4598-88b3-335e172e3615</webElementGuid>
+      <webElementGuid>5d21c3c4-3f6c-4019-a877-735bee0da63d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-results__option select2-results__option--highlighted</value>
-      <webElementGuid>dcccd844-b26c-459c-967b-be0c00afa1bc</webElementGuid>
+      <webElementGuid>585560a6-c3ed-403d-a41e-7eb5f3f835cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>41c0f27a-8278-44e0-8e80-23b44070a546</webElementGuid>
+      <webElementGuid>af776655-da58-4e30-bc3c-caec94d08398</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>90611161-f898-418d-be1b-7c2f37010d42</webElementGuid>
+      <webElementGuid>44eaea67-b85d-4d64-9e2e-1a03ef84b15d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>data-select2-id</name>
       <type>Main</type>
       <value>80</value>
-      <webElementGuid>0a66a617-b4bd-41da-98fa-3dfb00f97ae0</webElementGuid>
+      <webElementGuid>069afd5c-8771-49cd-8c4f-a74828da8708</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +73,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Monitoring penyaluran mutasi keuangan, efektivitas/kewajaran penggunaan kredit dan dilampirkan melalui upload dokumen dengan format PDF</value>
-      <webElementGuid>37e6dcff-9ca7-4ada-aacf-f4a346426080</webElementGuid>
+      <webElementGuid>f9067894-297f-4acd-b62f-8beb16f0cd26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-7cea6358c17f3fcafe32e993a1ac5a3f</value>
-      <webElementGuid>ba091412-7a19-48c1-9df9-c55e9d347359</webElementGuid>
+      <webElementGuid>5bbb658d-6ee1-48cc-a06c-6d8ab4eeb44e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[(@role = 'option') and (position() = 2)]</value>
-      <webElementGuid>f1d924ae-5ace-47c2-be14-435e32461b11</webElementGuid>
+      <webElementGuid>db4b0969-9b97-47a5-93e8-bf948ebb0188</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[(@role = 'option') and (position() = 2)]</value>
-      <webElementGuid>d63456e1-863d-411d-9648-91413e04cc2c</webElementGuid>
+      <webElementGuid>be768b5e-bb93-41e0-a39a-193c21b1d511</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Monitoring penyaluran mutasi keuangan, efektivitas/kewajaran penggunaan kredit dan dilampirkan melalui upload dokumen dengan format PDF' or . = 'Monitoring penyaluran mutasi keuangan, efektivitas/kewajaran penggunaan kredit dan dilampirkan melalui upload dokumen dengan format PDF')]</value>
-      <webElementGuid>caa407f1-efa0-40f9-896d-c33c067a8634</webElementGuid>
+      <webElementGuid>a1d60a4a-e58d-4a77-8a8d-15549f15b6e4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

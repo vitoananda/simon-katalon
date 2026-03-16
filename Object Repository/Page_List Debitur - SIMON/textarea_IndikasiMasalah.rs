@@ -6,12 +6,16 @@
    <elementGuidId>1042f7e7-fd83-41b0-8347-90b3a3c10938</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'IndikasiMasalah']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#IndikasiMasalah</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id = 'IndikasiMasalah']</value>
+         <key>BASIC</key>
+         <value>//*[@name = 'IndikasiMasalah' and @id = 'IndikasiMasalah']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>3f4f702d-d05d-429d-882d-d1e190169e58</webElementGuid>
+      <webElementGuid>9fcac3fb-bd8a-4f8c-92b4-c83a51b25943</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>required</name>
       <type>Main</type>
       <value>True</value>
-      <webElementGuid>0452f161-7838-47cb-9c1f-8c797778d407</webElementGuid>
+      <webElementGuid>dd8d064a-18c2-47df-8cec-ef59513e6841</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>name</name>
       <type>Main</type>
       <value>IndikasiMasalah</value>
-      <webElementGuid>55997dec-f870-4143-83b0-6f71c06a80a1</webElementGuid>
+      <webElementGuid>2bbc0047-f212-45ba-8b76-d11564eef344</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +57,7 @@
       <name>id</name>
       <type>Main</type>
       <value>IndikasiMasalah</value>
-      <webElementGuid>a63921ac-0ba2-4a9b-bd70-5542fc5f3505</webElementGuid>
+      <webElementGuid>23fefafd-5593-4c11-b31c-cd83de246730</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control custom-hght75px</value>
-      <webElementGuid>8d4f7eeb-3b9a-43b8-81cf-ce68f66bf672</webElementGuid>
+      <webElementGuid>19605378-c7ff-496d-a87c-6e059ed2f944</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>276e2b6f-ec41-40a4-8961-12da80063aa0</webElementGuid>
+      <webElementGuid>6e3a37f5-0260-45d1-89e8-6140bbece6ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-e3c57c0f5c18ee91ddbf378f91c260c3</value>
-      <webElementGuid>29eb6f0e-98ec-46c8-9326-144dd32112c6</webElementGuid>
+      <webElementGuid>6c147c03-ea86-44c1-a1dc-ea7630f7f022</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'IndikasiMasalah']</value>
-      <webElementGuid>04fa0157-8c87-45e5-b5f1-0bbe6f54bb92</webElementGuid>
+      <webElementGuid>27509ffd-20f8-4313-956a-1796d2106808</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'IndikasiMasalah']</value>
-      <webElementGuid>d7c87fdb-3acf-44e1-b09f-80a3c35d5c84</webElementGuid>
+      <webElementGuid>676364af-4440-47bd-bfa8-8f11f8da9193</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@name = 'IndikasiMasalah' and @id = 'IndikasiMasalah']</value>
-      <webElementGuid>b2444f02-97dd-4049-be93-4493656fe823</webElementGuid>
+      <webElementGuid>aa4b7394-12ea-49ce-98da-319d9c96ae34</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

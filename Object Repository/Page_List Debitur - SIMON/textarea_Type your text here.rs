@@ -6,12 +6,16 @@
    <elementGuidId>392a9253-2df7-4355-9469-8659dd1e608d</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'komentar']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#komentar</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id = 'komentar']</value>
+         <key>BASIC</key>
+         <value>//*[@id = 'komentar' and @placeholder = 'Type your text here']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>e4a3986e-f1ff-4ec5-8868-3e307afafd19</webElementGuid>
+      <webElementGuid>ac33d730-4b58-4dec-b0cd-2d29fb413825</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>id</name>
       <type>Main</type>
       <value>komentar</value>
-      <webElementGuid>008b5fcf-912c-434a-9984-e2e5ec4e07b3</webElementGuid>
+      <webElementGuid>42e09102-e683-404d-bf92-92fa9a788147</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>d2b73e49-d7b4-47d9-b31f-ea4c9f2e4dd7</webElementGuid>
+      <webElementGuid>9b7b5bd9-3589-49b9-a9ed-8154558c83c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>44bbdb19-1331-45b3-be0e-47549fb908b7</webElementGuid>
+      <webElementGuid>ea897a54-018d-4da9-9645-3faf02b56f7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +65,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Type your text here</value>
-      <webElementGuid>df61b515-6d93-4223-a83a-014688211a1b</webElementGuid>
+      <webElementGuid>31abac85-5466-4096-9143-6501d3fbc6ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-8c3a05648b85baa9ede3b0b7754c9481</value>
-      <webElementGuid>df0b33ab-665d-4903-9e04-77cadcec0a28</webElementGuid>
+      <webElementGuid>e12758ef-58f9-4d64-be1b-ba9612ec1d34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'komentar']</value>
-      <webElementGuid>1ee23116-d087-463c-87c9-2b5cc75d9989</webElementGuid>
+      <webElementGuid>57ce1603-30df-45ad-9284-7fa121a92e8f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'komentar']</value>
-      <webElementGuid>f606b9f9-4a3e-4c89-b2d2-e08464ab9b12</webElementGuid>
+      <webElementGuid>8747f288-b654-43e0-9138-63bac2138266</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +97,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@id = 'komentar' and @placeholder = 'Type your text here']</value>
-      <webElementGuid>77aa802c-6b84-4aa9-901a-1582207a7268</webElementGuid>
+      <webElementGuid>8d2cbade-5ede-420e-9e8b-2216a555d664</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

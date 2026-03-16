@@ -6,12 +6,16 @@
    <elementGuidId>049a6280-25c2-454a-9405-5564ca951ea9</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[(@role = 'option') and (position() = 3)]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>[role=&quot;option&quot;]:nth-child(3)</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[(@role = 'option') and (position() = 3)]</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Call (Kontak Debitur) terkait monitor &amp; verifikasi usaha debitur dan dilampirkan melalui upload dokumen dengan format PDF' or . = 'Call (Kontak Debitur) terkait monitor &amp; verifikasi usaha debitur dan dilampirkan melalui upload dokumen dengan format PDF')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>f9f7b62b-6c27-432a-91bc-fdd39ab6c8ea</webElementGuid>
+      <webElementGuid>4d316c88-a38d-424f-8ea6-9f3ae1b8f6f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-results__option select2-results__option--highlighted</value>
-      <webElementGuid>f3aceb1d-f523-415b-8e95-0f94df8764aa</webElementGuid>
+      <webElementGuid>0f1af06f-e242-4549-b701-d49bcf4294b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>ffabaf91-39c6-463b-835c-867b435b0a09</webElementGuid>
+      <webElementGuid>4253901f-5aca-4434-9edc-242ef79e9fb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>2f857465-7206-4dd4-9f87-a05e0d9f1251</webElementGuid>
+      <webElementGuid>50dbbad9-8305-42e4-a1e3-33261217dcbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>data-select2-id</name>
       <type>Main</type>
       <value>93</value>
-      <webElementGuid>fefeb5b2-b0ae-4132-932b-bbdb129ec65e</webElementGuid>
+      <webElementGuid>da746108-c400-4c0d-b693-d1ade859d314</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +73,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Call (Kontak Debitur) terkait monitor &amp; verifikasi usaha debitur dan dilampirkan melalui upload dokumen dengan format PDF</value>
-      <webElementGuid>e10dc73a-38c5-4d0d-98b0-20a945fda830</webElementGuid>
+      <webElementGuid>17ff6671-421c-45a7-9cfd-8749d6f36914</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-d8e3ca259a282ee70258f821bc844051</value>
-      <webElementGuid>29dc5b45-b0a3-4964-b388-5f35f462bae6</webElementGuid>
+      <webElementGuid>e28eb512-7312-4a42-bf0b-7f6032e99c65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[(@role = 'option') and (position() = 3)]</value>
-      <webElementGuid>1fb84d49-9850-42fb-a5ea-d3804ff93f50</webElementGuid>
+      <webElementGuid>c51d66c3-1dac-4960-863e-c72ccebd3d6a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[(@role = 'option') and (position() = 3)]</value>
-      <webElementGuid>dec90c0f-56c1-41b5-98e1-8419bedba675</webElementGuid>
+      <webElementGuid>f75cefe3-74b2-436d-bc87-f56b2ca98eda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Call (Kontak Debitur) terkait monitor &amp; verifikasi usaha debitur dan dilampirkan melalui upload dokumen dengan format PDF' or . = 'Call (Kontak Debitur) terkait monitor &amp; verifikasi usaha debitur dan dilampirkan melalui upload dokumen dengan format PDF')]</value>
-      <webElementGuid>4aef2831-24a9-4f1c-bcf7-a1d9585a832f</webElementGuid>
+      <webElementGuid>2fea73dc-2092-441f-abb9-9a3ea1d6ff6a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

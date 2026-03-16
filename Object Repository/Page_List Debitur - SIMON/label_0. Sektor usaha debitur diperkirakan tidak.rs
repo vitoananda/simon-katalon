@@ -6,12 +6,20 @@
    <elementGuidId>9c5980a6-f84d-476f-877b-be5789d02867</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>.form-check:nth-child(55) .form-check-label.custom-mrgnlft</value>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = '']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 42)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 55)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+         <key>CSS</key>
+         <value>[aria-labelledby=&quot;&quot;] .form-check:nth-child(42) .form-check-label.custom-mrgnlft</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+                                0. Sektor usaha debitur diperkirakan tidak mempunyai dampak sensitif terhadap lingkungan
+                            ' or . = '
+                                0. Sektor usaha debitur diperkirakan tidak mempunyai dampak sensitif terhadap lingkungan
+                            ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,15 +37,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>3d00e23e-628f-4234-a2a2-44289f0720b0</webElementGuid>
+      <webElementGuid>b8ef7d8c-b429-4802-9324-89114802fa3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>for</name>
       <type>Main</type>
-      <value>default-jawaban-656</value>
-      <webElementGuid>1549924a-b6f1-4f6b-9205-4027a2fe7e61</webElementGuid>
+      <value>default-jawaban-525</value>
+      <webElementGuid>ce603504-8ab8-4f0c-9333-2ad15443c4c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-label custom-mrgnlft</value>
-      <webElementGuid>362bf497-6dc7-460d-9265-b1bdd4cc0bd9</webElementGuid>
+      <webElementGuid>0b7df203-88b7-45da-9194-06c0e6a0f6e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,31 +63,31 @@
       <value>
                                 0. Sektor usaha debitur diperkirakan tidak mempunyai dampak sensitif terhadap lingkungan
                             </value>
-      <webElementGuid>0136caf6-4e2c-43d9-97ae-66dc1c1378cc</webElementGuid>
+      <webElementGuid>c72727dc-e5fb-4185-acc6-146d16004cdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-a537bcd07db04f61b952712d8f29dedb</value>
-      <webElementGuid>a8dca8d7-7eeb-42d2-83fa-e2cf24c66017</webElementGuid>
+      <value>md5.v1-57ad754967736f5fdaf39db482691f7f</value>
+      <webElementGuid>271981e0-0376-4029-b458-04cf1df92753</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 55)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>b233896f-39ba-48cc-835f-006b7770f0f8</webElementGuid>
+      <value>//*[@aria-labelledby = '']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 42)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>5a293080-ace2-49c7-8a36-9d3201076006</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 55)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>c4a70467-2d65-4922-86fc-de51f2393c0d</webElementGuid>
+      <value>//*[@aria-labelledby = '']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 42)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>d2bc792c-19dd-4856-8c88-fbf540aa8d7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,6 +99,14 @@
                             ' or . = '
                                 0. Sektor usaha debitur diperkirakan tidak mempunyai dampak sensitif terhadap lingkungan
                             ')]</value>
-      <webElementGuid>7f1d8c2c-0e3a-4d1f-9ff5-2928ff4c75b3</webElementGuid>
+      <webElementGuid>d3345824-499e-4686-81d8-d86bfc3edfbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 55)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>c4a70467-2d65-4922-86fc-de51f2393c0d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

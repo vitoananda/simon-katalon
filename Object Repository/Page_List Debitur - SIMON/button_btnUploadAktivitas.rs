@@ -6,12 +6,20 @@
    <elementGuidId>48141cce-e0ac-419a-a134-3429cdabfce0</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'btnUploadAktivitas']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#btnUploadAktivitas</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id = 'btnUploadAktivitas']</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @id = 'btnUploadAktivitas' and (text() = '
+                                Submit
+                            ' or . = '
+                                Submit
+                            ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +37,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>99cc6a0f-0c0d-4fd2-8109-80e9fb9bf03b</webElementGuid>
+      <webElementGuid>f4f45242-f9f1-425f-a294-5b234f5cc3b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>6102d6f4-68a5-4938-8d3a-882cff9c0b89</webElementGuid>
+      <webElementGuid>f5ce8786-1989-4587-b529-279fff70269e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>bd979787-5645-4b0c-93e1-2eccf64a9b03</webElementGuid>
+      <webElementGuid>498d572f-418f-42df-bfe4-a65d7069a8d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btnUploadAktivitas</value>
-      <webElementGuid>bf8c40d2-84cf-4905-b499-81f221361b10</webElementGuid>
+      <webElementGuid>0329a801-8cb1-4029-809b-3b341fe52c67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +71,7 @@
       <value>
                                 Submit
                             </value>
-      <webElementGuid>aceac28b-86b2-47de-8457-8c22c137ffb1</webElementGuid>
+      <webElementGuid>9bd565a7-15c3-41ad-b626-44ead55ed6a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +79,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-f54ce7cd28bef6f76574d55f0a0e5d2d</value>
-      <webElementGuid>13fcb3f6-2cac-4656-a090-c2a5bba17765</webElementGuid>
+      <webElementGuid>c2c2878e-3fad-4617-9766-c578f756d6e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'btnUploadAktivitas']</value>
-      <webElementGuid>fc39ffdd-0caf-450b-a1d8-bb61018d423d</webElementGuid>
+      <webElementGuid>a805a1f2-a702-4301-aedd-e2e015a660a9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +95,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'btnUploadAktivitas']</value>
-      <webElementGuid>4b7591a4-ebb0-4cd2-887a-40b30071635b</webElementGuid>
+      <webElementGuid>3ac499aa-85ea-4df5-a052-d35f0145aeb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +107,6 @@
                             ' or . = '
                                 Submit
                             ')]</value>
-      <webElementGuid>5062383f-93e7-44ff-8c43-7911a868f0de</webElementGuid>
+      <webElementGuid>3693eaab-7e5b-471c-a9fc-283470ec1228</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,16 @@
    <elementGuidId>fa68c364-b215-428f-b026-a5bce9bdb0ca</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'Keterangan']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#Keterangan</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id = 'Keterangan']</value>
+         <key>BASIC</key>
+         <value>//*[@id = 'Keterangan' and @name = 'Keterangan']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>3e9258af-b511-496a-8146-f365db83b09b</webElementGuid>
+      <webElementGuid>91177e5d-47ea-4c21-9322-0ef7520643bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>js-example-placeholder-multiple js-states form-control custom-wdthrndm</value>
-      <webElementGuid>9be9b536-e28a-4023-8822-d413117f46a6</webElementGuid>
+      <webElementGuid>a6343ef1-dcd9-4b0d-85a1-89ae09d21786</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>id</name>
       <type>Main</type>
       <value>Keterangan</value>
-      <webElementGuid>230f00ef-64d4-486c-b616-c1f480c93273</webElementGuid>
+      <webElementGuid>44d9bec6-d064-4782-840c-aed53a699de8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +57,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Keterangan</value>
-      <webElementGuid>e573d4bb-b7fd-4625-a186-f8b67a470d17</webElementGuid>
+      <webElementGuid>d9aa09fd-d202-4385-9395-68a4ea98f46a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-227ada21a5fb78597846abf2ecc2570a</value>
-      <webElementGuid>56bbfa21-3fbb-4921-ad3d-cbada652aebb</webElementGuid>
+      <webElementGuid>203d9522-7979-47a7-adbf-497910e1ce79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'Keterangan']</value>
-      <webElementGuid>549e5906-f90f-4d7d-aaca-c9c13da0e809</webElementGuid>
+      <webElementGuid>31427232-6c8c-4623-9d0c-c92288ab5b9f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'Keterangan']</value>
-      <webElementGuid>5c76d155-a11e-4300-8586-9c22a5f20d84</webElementGuid>
+      <webElementGuid>09e981bc-994a-4862-81fa-c39a1ffe3ab0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@id = 'Keterangan' and @name = 'Keterangan']</value>
-      <webElementGuid>bb4c6da6-0571-4f04-8f7d-f9d94ba3d406</webElementGuid>
+      <webElementGuid>11aef232-462d-414f-a394-cda19c6f79c8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

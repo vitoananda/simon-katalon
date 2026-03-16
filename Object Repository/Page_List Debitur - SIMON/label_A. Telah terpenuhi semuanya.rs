@@ -6,12 +6,20 @@
    <elementGuidId>3325834a-e074-433f-864c-f18c07b33e99</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>[aria-labelledby=&quot;TabPilar-3&quot;] .form-check:nth-child(41) .form-check-label.custom-mrgnlft</value>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 47)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@aria-labelledby = 'TabPilar-3']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 41)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+         <key>CSS</key>
+         <value>.form-check:nth-child(47) .form-check-label.custom-mrgnlft</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+                                A. Telah terpenuhi semuanya
+                            ' or . = '
+                                A. Telah terpenuhi semuanya
+                            ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,15 +37,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>c5a1c94c-a654-4520-88ea-dfe0e26e7fbc</webElementGuid>
+      <webElementGuid>0e63f2c3-eedf-49d0-9a1d-02b7e0fa8554</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>for</name>
       <type>Main</type>
-      <value>default-jawaban-713</value>
-      <webElementGuid>c1eca546-c313-40a2-bf52-7a9ee1ba7139</webElementGuid>
+      <value>default-jawaban-584</value>
+      <webElementGuid>1c8423b3-f278-445a-9f5a-c7057e6da1ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-label custom-mrgnlft</value>
-      <webElementGuid>a0c300d5-bfaa-4a37-b3d7-1c020f3b959d</webElementGuid>
+      <webElementGuid>b46af4eb-570a-484f-b549-5dc14a84e2bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,31 +63,31 @@
       <value>
                                 A. Telah terpenuhi semuanya
                             </value>
-      <webElementGuid>f7930c6b-cbd6-4eba-ad7d-4109a8d6fe26</webElementGuid>
+      <webElementGuid>e0bda112-391a-4a9f-97c6-6e729b1de8c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-9e041a2163d649e609f71e76698c0f5b</value>
-      <webElementGuid>e1ee4951-e94d-4e41-8736-454c36d8dadb</webElementGuid>
+      <value>md5.v1-8b70149365b153958ddf632bf8b4ef33</value>
+      <webElementGuid>c5b4a3d7-1098-4a26-a87e-164f0b14ea9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@aria-labelledby = 'TabPilar-3']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 41)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>417a35cf-79b0-413f-9bfc-8a4c6dcb3830</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 47)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>15df9208-ebec-496b-bc80-e601b03514cd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@aria-labelledby = 'TabPilar-3']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 41)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>71e03fd5-961e-4922-91df-1afce1337796</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 47)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>b27b70d9-89b5-4e10-9bd1-e53145996a4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,6 +99,14 @@
                             ' or . = '
                                 A. Telah terpenuhi semuanya
                             ')]</value>
-      <webElementGuid>a027c27a-8a65-46af-a25e-194d767fad4a</webElementGuid>
+      <webElementGuid>1274b6a6-5c9c-45a5-9c73-361664ae78b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'TabPilar-3']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 41)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>71e03fd5-961e-4922-91df-1afce1337796</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_24899 - DUDI MURTIAWAN - SBK MEDAN</name>
+   <tag></tag>
+   <elementGuidId>7162b074-9732-47ad-afac-d5afb4743149</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@role = 'option') and (position() = 13)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[role=&quot;option&quot;]:nth-child(13)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;24899 - DUDI MURTIAWAN - SBK MEDAN&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>fe906a54-1754-4a3b-9bfd-00c22f8468c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>caa32fe5-c97f-4661-a437-77879b333cca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>d46f65dd-243b-4d30-b823-7409d8214635</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>86488d79-bf75-4055-ab6f-9f95c728658f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>252</value>
+      <webElementGuid>273d2d53-fedc-4b64-bcc2-bc2099877e17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>24899 - DUDI MURTIAWAN - SBK MEDAN</value>
+      <webElementGuid>52a3e1bd-0887-432d-aac5-d27dea599361</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-5fcfb79260e41eac4e3dc5b65d294900</value>
+      <webElementGuid>803a9909-799e-41bc-bf85-d3b8f0838a98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@role = 'option') and (position() = 13)]</value>
+      <webElementGuid>bbfa9688-c922-4847-bab3-8aa6f6fd0378</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@role = 'option') and (position() = 13)]</value>
+      <webElementGuid>cef92324-bf52-49eb-ba61-f0475614184c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '24899 - DUDI MURTIAWAN - SBK MEDAN' or . = '24899 - DUDI MURTIAWAN - SBK MEDAN')]</value>
+      <webElementGuid>7552e530-b0af-4145-9600-3bd8468f01f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -6,12 +6,16 @@
    <elementGuidId>a5ec388b-7d66-44ae-97a9-c489a39852fa</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[(@role = 'option') and (position() = 5)]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>[role=&quot;option&quot;]:nth-child(5)</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[(@role = 'option') and (position() = 5)]</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Melakukan kunjungan setempat/site visit dan dilampirkan melalui upload dokumen dengan format PDF' or . = 'Melakukan kunjungan setempat/site visit dan dilampirkan melalui upload dokumen dengan format PDF')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>5ed2fd00-618f-46eb-9503-58cbe67dc4db</webElementGuid>
+      <webElementGuid>5546c489-6642-47e7-8e1b-412ac7569bb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-results__option select2-results__option--highlighted</value>
-      <webElementGuid>21479b59-135c-45c2-9687-6c5446881093</webElementGuid>
+      <webElementGuid>e893484e-2fb9-48ba-967c-b5dca45222eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>f5af9d08-38ae-4369-922d-1955fa822808</webElementGuid>
+      <webElementGuid>c6314d19-00e3-4f67-ac90-678c86d2bc73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>76f871d1-8e09-4cda-8a89-e14da17164ac</webElementGuid>
+      <webElementGuid>4d4b2849-3eaf-4c88-8fc1-60fa77aa883f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>data-select2-id</name>
       <type>Main</type>
       <value>119</value>
-      <webElementGuid>fe8e9443-451e-4dd6-a805-6bc945c1ef26</webElementGuid>
+      <webElementGuid>6ea82ccb-1b1a-446d-bb70-d8784ed30872</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +73,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Melakukan kunjungan setempat/site visit dan dilampirkan melalui upload dokumen dengan format PDF</value>
-      <webElementGuid>43b59688-ce16-4b4d-b63a-1e2fa50bde35</webElementGuid>
+      <webElementGuid>212b9638-48b9-4376-a683-9ee97446cde2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-964c1ced603b3788b0ceb54f09848614</value>
-      <webElementGuid>88bc3f41-3290-4045-b60c-6e68c4ffcabc</webElementGuid>
+      <webElementGuid>6e8c737f-f399-45a2-b324-959f59ad75f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[(@role = 'option') and (position() = 5)]</value>
-      <webElementGuid>bfcd2cff-700c-4a84-a9d5-d1eb4b672489</webElementGuid>
+      <webElementGuid>c741c79d-9898-4e5f-9dab-6fd3e4e42c35</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[(@role = 'option') and (position() = 5)]</value>
-      <webElementGuid>efbcef75-28d5-4856-8b96-3f7748342fea</webElementGuid>
+      <webElementGuid>1a0c71a3-3441-4d99-b38d-f98fe0bb0643</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Melakukan kunjungan setempat/site visit dan dilampirkan melalui upload dokumen dengan format PDF' or . = 'Melakukan kunjungan setempat/site visit dan dilampirkan melalui upload dokumen dengan format PDF')]</value>
-      <webElementGuid>5f2c6b4d-18e4-4b04-a2a9-d55cfae3fced</webElementGuid>
+      <webElementGuid>e7b9fcd9-7a2a-4f01-a9a8-bd511213b8b1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

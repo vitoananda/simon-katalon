@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_24899 - DUDI MURTIAWAN - SBK MEDAN_1</name>
+   <tag></tag>
+   <elementGuidId>4e6211a5-c762-4594-8bf2-f93b11ec9b7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@role = 'option') and (position() = 13)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[role=&quot;option&quot;]:nth-child(13)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;20118 - DANIEK WIDYANINGROEM - SBE YOGYAKARTA&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>d35d0e68-8de4-4679-a88f-7ab82e5f0f42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option</value>
+      <webElementGuid>9690596c-c333-4731-a6fa-bdc45481807f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>0b06ddb8-568e-4d68-9a40-34bc7502813d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e36a3624-86b0-4c78-9fe2-1a4dadfefb89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>162</value>
+      <webElementGuid>80faa6ac-88cb-4326-b186-1d26d3084c84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>20118 - DANIEK WIDYANINGROEM - SBE YOGYAKARTA</value>
+      <webElementGuid>3eed3238-41cc-426d-9470-f467da26164c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-5fcfb79260e41eac4e3dc5b65d294900</value>
+      <webElementGuid>4328f111-7260-4a2d-b3b3-4c337fd15225</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@role = 'option') and (position() = 13)]</value>
+      <webElementGuid>ae46ccea-f020-45f8-870d-819ac2f1de0b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@role = 'option') and (position() = 13)]</value>
+      <webElementGuid>8741d7d3-0870-410e-8640-b2509c9a4dca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '20118 - DANIEK WIDYANINGROEM - SBE YOGYAKARTA' or . = '20118 - DANIEK WIDYANINGROEM - SBE YOGYAKARTA')]</value>
+      <webElementGuid>88555222-9d93-4a39-91bb-414d99323b0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

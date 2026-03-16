@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>SME Kuning File Path</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>1a4983ab-4632-4890-a3a7-544fdf17f3e7</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>C%3A%5C%5CUsers%5C%5Cvtoan%5C%5CKatalon+Studio%5C%5CSimon%5C%5CUploaded+Files%5C%5Cupload_sme_kuning.xlsx</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>filePath</name>
+      <size>1</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

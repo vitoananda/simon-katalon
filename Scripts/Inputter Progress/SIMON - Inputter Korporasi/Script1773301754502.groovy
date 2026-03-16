@@ -295,7 +295,7 @@ WebUI.click(findTestObject('Page_List Debitur - SIMON/button_Next'))
 WebUI.takeScreenshot()
 
 // ── Approver section: conditional on CIF ─────────────────────────────────────
-if (cif == '1010101012') {
+if (hijau == true) {
     WebUI.scrollToElement(findTestObject('Page_List Debitur - SIMON/span_select2-Approver1-container_1'), 5)
     WebUI.click(findTestObject('Page_List Debitur - SIMON/span_select2-Approver1-container_1'))
     WebUI.setText(findTestObject('Page_List Debitur - SIMON/input_searchbox'), 'andrean')

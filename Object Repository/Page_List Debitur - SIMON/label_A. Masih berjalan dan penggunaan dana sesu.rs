@@ -6,12 +6,20 @@
    <elementGuidId>a038f16a-cf77-400a-a63a-9843c37a9323</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>[aria-labelledby=&quot;TabPilar-3&quot;] .form-check:nth-child(52) .form-check-label.custom-mrgnlft</value>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 54)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@aria-labelledby = 'TabPilar-3']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 52)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+         <key>CSS</key>
+         <value>.form-check:nth-child(54) .form-check-label.custom-mrgnlft</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+                                A. Masih berjalan dan penggunaan dana sesuai dengan peruntukan pada perjanjian kredit  
+                            ' or . = '
+                                A. Masih berjalan dan penggunaan dana sesuai dengan peruntukan pada perjanjian kredit  
+                            ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,15 +37,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>2700d103-e892-40ce-bdaf-099ad9f1b84e</webElementGuid>
+      <webElementGuid>cc715e3c-1ed7-4f9e-a74f-55b0d88b85b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>for</name>
       <type>Main</type>
-      <value>default-jawaban-721</value>
-      <webElementGuid>7d922c20-440f-429d-94ab-9c74e007964b</webElementGuid>
+      <value>default-jawaban-589</value>
+      <webElementGuid>9aaba906-abb5-462f-a00c-cac6b2af7ded</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-label custom-mrgnlft</value>
-      <webElementGuid>5eaa9961-decd-4287-bb16-08ced4c5446e</webElementGuid>
+      <webElementGuid>8c7a6a54-5f83-42c8-886d-28311558e54c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,31 +63,31 @@
       <value>
                                 A. Masih berjalan dan penggunaan dana sesuai dengan peruntukan pada perjanjian kredit  
                             </value>
-      <webElementGuid>847ac8f9-9b88-4d57-a394-ed8a976de680</webElementGuid>
+      <webElementGuid>42994156-ccc0-4965-a80a-220bc25d2ecc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-e51daa20993fede68919eac1e1a0f50e</value>
-      <webElementGuid>5f447dfc-3bc7-4648-9526-dbb2e0f8e8d6</webElementGuid>
+      <value>md5.v1-7ce1049bb5e72cc757dff8ab2a30ba01</value>
+      <webElementGuid>6d49c032-f4dc-4cb4-a88e-184f18904a46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@aria-labelledby = 'TabPilar-3']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 52)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>2adf03aa-53d8-4743-89ca-af1b86ec66c3</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 54)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>35bfd501-fa9f-4ebe-9109-cbfd268367cf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@aria-labelledby = 'TabPilar-3']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 52)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>ecf9d979-bc1e-4842-9eae-fb4b9245a655</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 54)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>32f4a6fb-69f8-4c9a-9cec-437c425e6da3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,6 +99,14 @@
                             ' or . = '
                                 A. Masih berjalan dan penggunaan dana sesuai dengan peruntukan pada perjanjian kredit  
                             ')]</value>
-      <webElementGuid>7e7220cb-b0c1-4e8b-8f67-2df2e0780f42</webElementGuid>
+      <webElementGuid>6a79a107-1a56-4033-aa02-50fe2faef463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'TabPilar-3']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 52)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>ecf9d979-bc1e-4842-9eae-fb4b9245a655</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

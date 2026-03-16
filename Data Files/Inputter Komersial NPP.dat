@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>Approver Risiko Login - Korporasi</name>
+   <name>Inputter Komersial NPP</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>3eb4b2e0-f9ac-4493-948c-77f1f7f9146d</dataFileGUID>
+   <dataFileGUID>268ddc03-de6c-426c-aac5-c3e5b3ad3dde</dataFileGUID>
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
-   <data>62010</data>
+   <data>822111</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>username</name>

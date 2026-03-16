@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>SIMON - Test Suite (Upload Data Komersial)</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>817f2956-ac52-4e9f-ba05-bc7b25a2efe4</testSuiteGuid>
+   <testCaseLink>
+      <guid>2b3a52e2-67df-4dc2-b853-c0bb0613b14f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'admin'</defaultValue>
+         <description></description>
+         <id>645b335f-eed9-48af-9a2f-cde5e6941ca2</id>
+         <masked>false</masked>
+         <name>username</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/Authentication/SIMON - Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>972093be-0ea6-48a7-8a89-9b7c49734887</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Admin Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>972093be-0ea6-48a7-8a89-9b7c49734887</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>645b335f-eed9-48af-9a2f-cde5e6941ca2</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>30cf90bb-9859-4e32-8651-8c9acebe3d83</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Upload Data SIMON/SIMON - Upload Komersial</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>15463308-4392-40a5-9f66-5b733b555065</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Komersial Hijau File Path</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>15463308-4392-40a5-9f66-5b733b555065</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>filePath</value>
+         <variableId>f8489918-acbe-401e-8d9e-77cdcb6237b4</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8b56cbd1-7b81-47df-9f63-a2b6c396637c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Authentication/SIMON - Log Out</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e0af3079-d21e-403f-88e5-291b74091f83</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Authentication/SIMON - Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>84aa886c-2c26-4e20-b161-bedbf84457a1</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Inputter Komersial NPP</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>84aa886c-2c26-4e20-b161-bedbf84457a1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>645b335f-eed9-48af-9a2f-cde5e6941ca2</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d9b6d570-0806-4efa-a542-408188d0dfd7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Inputter Progress/SIMON - Inputter Komersial</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d87675d6-372a-4e16-9718-9b077324b3e5</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Komersial Hijau CIF</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>0fab7061-242c-4512-a9a0-b5820975b691</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Dummy File Path</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ebcf1077-8db4-4cea-9ea0-b27935c08cc2</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Hijau Conditional Variable</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>d87675d6-372a-4e16-9718-9b077324b3e5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>cif</value>
+         <variableId>f6c030c0-26d2-4093-9583-186a2445fc91</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0fab7061-242c-4512-a9a0-b5820975b691</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>filePath</value>
+         <variableId>ee0eadd3-9677-43f0-bacf-b0bae3984998</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ebcf1077-8db4-4cea-9ea0-b27935c08cc2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>hijau</value>
+         <variableId>708c2d9f-68cd-4b6c-943b-706052a9289c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>45c9ffe0-d617-4ec2-959b-8f63daba41a1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Authentication/SIMON - Log Out</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>04732f19-6a0f-42b2-b6fa-1da46d6ded82</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Authentication/SIMON - Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a882aadf-9e27-4bff-b5f2-bf36f76969c4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Approver Bisnis Komersial NPP</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>a882aadf-9e27-4bff-b5f2-bf36f76969c4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>645b335f-eed9-48af-9a2f-cde5e6941ca2</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>76fcb69f-65ae-45fc-90f2-ca20a3b65ac0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Approver Progress/SIMON - Approver</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>af94de82-4a86-4879-9089-10c7ec04c913</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Komersial Hijau CIF</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>af94de82-4a86-4879-9089-10c7ec04c913</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>cif</value>
+         <variableId>df754ae2-d67c-4498-b067-d692e2bfd901</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>51481bdb-4416-4d3c-a696-4aec6f77add7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Authentication/SIMON - Log Out</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5577ac70-f1fc-40e0-b627-19c4ab99e5c2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Authentication/SIMON - Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5df74664-ab9c-41fa-b943-350e7c5da32e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Approver Risiko Komersial NPP</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5df74664-ab9c-41fa-b943-350e7c5da32e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>645b335f-eed9-48af-9a2f-cde5e6941ca2</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>75e9604b-fb98-4b44-a310-a6ebb08b163e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Approver Progress/SIMON - Approver</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b2c722fc-2ae9-466e-9d3f-7f69b4d02c1c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Komersial Hijau CIF</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>b2c722fc-2ae9-466e-9d3f-7f69b4d02c1c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>cif</value>
+         <variableId>df754ae2-d67c-4498-b067-d692e2bfd901</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f500bb1f-a828-45cb-8548-6d6cf1c6a068</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Authentication/SIMON - Log Out</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

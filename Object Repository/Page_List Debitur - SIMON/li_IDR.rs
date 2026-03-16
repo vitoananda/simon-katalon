@@ -6,12 +6,16 @@
    <elementGuidId>60a699dc-4334-44dd-ae09-02d543cf16e9</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[(@role = 'option') and (position() = 1)]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>[role=&quot;option&quot;]:nth-child(1)</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[(@role = 'option') and (position() = 1)]</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'IDR' or . = 'IDR')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>eced51f0-0a9f-4803-942d-17f963491d68</webElementGuid>
+      <webElementGuid>54e966c9-9609-4558-a558-791ab88ed645</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-results__option select2-results__option--highlighted</value>
-      <webElementGuid>6169cbd3-42e6-4fbb-89cd-659218ee5d85</webElementGuid>
+      <webElementGuid>ebab1e66-5f4b-49d0-989a-82f26caedbb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>879e5db0-afb8-4631-a846-d0f28ca637bc</webElementGuid>
+      <webElementGuid>36a2c7fa-1f16-4662-9eff-6871585826e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +57,15 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>45809622-cc02-4ace-8227-e47bd946460a</webElementGuid>
+      <webElementGuid>d63f5a84-946d-461e-8763-b3327f504c77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-select2-id</name>
       <type>Main</type>
-      <value>129</value>
-      <webElementGuid>c9ec0b17-f890-40a9-9f14-968222f3d475</webElementGuid>
+      <value>133</value>
+      <webElementGuid>187657af-c2bc-40f1-ab4c-951a29524689</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +73,7 @@
       <name>text</name>
       <type>Main</type>
       <value>IDR</value>
-      <webElementGuid>1c083a02-0314-4525-ac69-abaa83152567</webElementGuid>
+      <webElementGuid>c90a3644-3d56-4ebd-ac6e-0a7e41ed7e85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-b5a7388a68fb2b08bb910a353a5f5f6b</value>
-      <webElementGuid>32a5ed76-c1a3-4bd7-a3b0-d1f99bef2fa0</webElementGuid>
+      <webElementGuid>c4f9913a-89ee-4249-97d2-65a0248f8ef3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[(@role = 'option') and (position() = 1)]</value>
-      <webElementGuid>505aefa8-ed36-42b9-a415-f325516c4340</webElementGuid>
+      <webElementGuid>0b355478-a20a-4b6c-b43b-eebcede99bd2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[(@role = 'option') and (position() = 1)]</value>
-      <webElementGuid>aee82a33-5409-4b77-a73b-e64102b1f0a5</webElementGuid>
+      <webElementGuid>651fe47c-7ae2-4481-8c7b-fcd8ae3943fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'IDR' or . = 'IDR')]</value>
-      <webElementGuid>59f9acb2-a227-4532-b3dc-b46206c7e9c7</webElementGuid>
+      <webElementGuid>1f228797-3b28-42ce-8b8e-8d2949837e8b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

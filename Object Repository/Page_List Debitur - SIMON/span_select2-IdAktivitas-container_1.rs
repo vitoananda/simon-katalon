@@ -6,19 +6,23 @@
    <elementGuidId>31962801-305f-4199-b8b1-bbdf2def3868</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>[aria-labelledby=&quot;select2-IdAktivitas-container&quot;] [aria-readonly=&quot;true&quot;]</value>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'select2-IdAktivitas-container']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@aria-labelledby = 'select2-IdAktivitas-container']//*[@aria-readonly = 'true']</value>
+         <key>CSS</key>
+         <value>[aria-labelledby=&quot;select2-IdAktivitas-container&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '-Silahkan pilih-' or . = '-Silahkan pilih-')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#select2-IdAktivitas-container</value>
+         <value>internal:role=combobox[name=&quot;-Silahkan pilih-&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +33,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>55650822-05eb-40ba-8dd3-8aff752344a1</webElementGuid>
+      <webElementGuid>8af8b9d1-6189-4772-a7c6-c4004bd68283</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>select2-selection__rendered</value>
-      <webElementGuid>692a0949-8374-4935-bc29-0074cd4e0f79</webElementGuid>
+      <value>select2-selection select2-selection--single</value>
+      <webElementGuid>498b0ed9-5d04-478d-bac1-f1e0356e78bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -52,8 +56,8 @@
       <matchCondition>equals</matchCondition>
       <name>role</name>
       <type>Main</type>
-      <value>textbox</value>
-      <webElementGuid>57c8af5d-5816-4f68-9fcf-2da4836294e5</webElementGuid>
+      <value>combobox</value>
+      <webElementGuid>33195a8b-1f26-4a18-a08c-b70b974e89f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,24 +73,80 @@
       <name>text</name>
       <type>Main</type>
       <value>-Silahkan pilih-</value>
-      <webElementGuid>12e3aede-47cd-4331-b52a-461477c05c08</webElementGuid>
+      <webElementGuid>38cb2adf-769d-40c6-b40e-ea4ff7f8b19c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-710770cb9f2bca2be3edaab3db706696</value>
-      <webElementGuid>2baac7f0-263a-4086-92c0-7d159131d7b1</webElementGuid>
+      <value>md5.v1-baa89d578ecb14bab7c6f4d2afb788f2</value>
+      <webElementGuid>2371808d-50a6-4819-8ac9-695864e07b7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@aria-labelledby = 'select2-IdAktivitas-container']//*[@aria-readonly = 'true']</value>
-      <webElementGuid>f8d039b3-0163-4d3f-ab3e-2a17eed3ccd0</webElementGuid>
+      <value>//*[@aria-labelledby = 'select2-IdAktivitas-container']</value>
+      <webElementGuid>86097c8d-8b3e-4b06-8342-28a26cfe901b</webElementGuid>
    </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c56f4227-5693-4eab-b71e-c4681fc06aa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>aaec7e80-d9ef-4b61-8fac-19a7226258de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>842093c8-b9d4-44dc-a34c-09dfc8cca320</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>8efa95b7-0c20-48e3-bd78-a8de8a799e09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>select2-IdAktivitas-container</value>
+      <webElementGuid>ee8d482f-f975-4ec8-97c1-03ca906353b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'select2-IdAktivitas-container']</value>
+      <webElementGuid>d5c6950f-512c-4b8f-9539-053263935bbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '-Silahkan pilih-' or . = '-Silahkan pilih-')]</value>
+      <webElementGuid>70c3d12c-61e0-468c-be9c-0a7913b4d8f9</webElementGuid>
+   </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>

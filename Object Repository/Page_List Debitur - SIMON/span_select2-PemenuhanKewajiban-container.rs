@@ -6,12 +6,16 @@
    <elementGuidId>0c036539-d562-4b36-b306-b53fb4646e5c</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'select2-PemenuhanKewajiban-container']//*[@aria-readonly = 'true']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>[aria-labelledby=&quot;select2-PemenuhanKewajiban-container&quot;] [aria-readonly=&quot;true&quot;]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@aria-labelledby = 'select2-PemenuhanKewajiban-container']//*[@aria-readonly = 'true']</value>
+         <key>BASIC</key>
+         <value>//*[@id = 'select2-PemenuhanKewajiban-container' and (text() = '-Silahkan pilih-' or . = '-Silahkan pilih-')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>643f96cc-825b-4282-b265-c391406e6ccc</webElementGuid>
+      <webElementGuid>717e301c-0d53-4442-b0e3-369137c5dc8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>b8591692-51c3-4a61-a024-544940c8815a</webElementGuid>
+      <webElementGuid>e12a1107-08f9-4a27-ad3d-5c60334222f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>id</name>
       <type>Main</type>
       <value>select2-PemenuhanKewajiban-container</value>
-      <webElementGuid>83ba0590-4cb4-4a1a-a571-9bd309c05f02</webElementGuid>
+      <webElementGuid>5b354944-abb6-43ea-a050-30b40e56779c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>e548c77e-f9f3-4f35-bafd-d01605565647</webElementGuid>
+      <webElementGuid>f10fbd8e-7a5e-4a5c-8619-16fa48728a37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>2927ccdf-1ce4-41f4-9380-f801ec95da78</webElementGuid>
+      <webElementGuid>d092e9d0-96d2-4983-9d96-833d460468cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +73,7 @@
       <name>text</name>
       <type>Main</type>
       <value>-Silahkan pilih-</value>
-      <webElementGuid>bd691de3-3087-4797-a34e-90a7a4130774</webElementGuid>
+      <webElementGuid>947058c6-a354-462c-b781-ad7918740cf1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-9b96f303079088c62324986961cbdb99</value>
-      <webElementGuid>d108d32c-fc88-4f93-831a-0e00d62132af</webElementGuid>
+      <webElementGuid>eb88e191-c426-4de3-a984-b2d8bcc081c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@aria-labelledby = 'select2-PemenuhanKewajiban-container']//*[@aria-readonly = 'true']</value>
-      <webElementGuid>a992b2f9-1d2e-4d69-8ee5-0909b0e24b3f</webElementGuid>
+      <webElementGuid>46677f98-1642-4ca6-aef3-9a2708b4b73a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@aria-labelledby = 'select2-PemenuhanKewajiban-container']//*[@aria-readonly = 'true']</value>
-      <webElementGuid>da0e05aa-77dc-41c1-9d35-c7ae15337d77</webElementGuid>
+      <webElementGuid>5faffa31-6191-4163-ad43-92fad0960de1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'select2-PemenuhanKewajiban-container' and (text() = '-Silahkan pilih-' or . = '-Silahkan pilih-')]</value>
-      <webElementGuid>aca3e2fd-1f37-4957-9614-61f55d73dea9</webElementGuid>
+      <webElementGuid>cab60646-5f3d-471a-864c-89b5d6c93473</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

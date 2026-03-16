@@ -6,12 +6,20 @@
    <elementGuidId>1740fe6f-f426-4388-a4f4-bf6b6a041728</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>[aria-labelledby=&quot;TabPilar-2&quot;] .form-check:nth-child(15) .form-check-label.custom-mrgnlft</value>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'TabPilar-17']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 15)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@aria-labelledby = 'TabPilar-2']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 15)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+         <key>CSS</key>
+         <value>[aria-labelledby=&quot;TabPilar-17&quot;] .form-check:nth-child(15) .form-check-label.custom-mrgnlft</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+                                A. Rasio DER dibawah dari ketentuan yang berlaku sesuai segmen dan sektor usaha debitur 
+                            ' or . = '
+                                A. Rasio DER dibawah dari ketentuan yang berlaku sesuai segmen dan sektor usaha debitur 
+                            ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,15 +37,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>941a6496-124d-4b6c-a7c6-6f5a36595d1c</webElementGuid>
+      <webElementGuid>3e28e9fd-7cd7-4c4f-880d-a70f2be6ffbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>for</name>
       <type>Main</type>
-      <value>default-jawaban-668</value>
-      <webElementGuid>4fe0d0ec-d964-4ad3-9742-7284509a3c91</webElementGuid>
+      <value>default-jawaban-538</value>
+      <webElementGuid>bd9c18ee-5541-4d0c-b800-b7299fd582f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-label custom-mrgnlft</value>
-      <webElementGuid>643bf543-2a0d-496d-8ec6-fe8ee1eb1d8d</webElementGuid>
+      <webElementGuid>c8fa466f-8bb9-4166-9d89-16eee0bb4fbc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,31 +63,31 @@
       <value>
                                 A. Rasio DER dibawah dari ketentuan yang berlaku sesuai segmen dan sektor usaha debitur 
                             </value>
-      <webElementGuid>6ec96f3f-6fbc-42fa-a645-73b6fe24c794</webElementGuid>
+      <webElementGuid>b8556b3e-89cc-4199-b563-673b485fe891</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-1f0f36fb27d881e5d03df3ed875f4644</value>
-      <webElementGuid>9230bdc8-9193-44f3-a456-066139ddaa09</webElementGuid>
+      <value>md5.v1-3bd59314d7158a6e93c1d3f51dd7eb91</value>
+      <webElementGuid>cba9e833-be1d-4830-adb6-53f055fe8111</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@aria-labelledby = 'TabPilar-2']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 15)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>948d71b8-bde4-4deb-9a70-d723ee029c57</webElementGuid>
+      <value>//*[@aria-labelledby = 'TabPilar-17']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 15)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>2af691bf-17cf-4a36-851d-2458e076f023</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@aria-labelledby = 'TabPilar-2']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 15)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>c1e1f55b-04f8-47dc-9ef9-6e0b8143dec3</webElementGuid>
+      <value>//*[@aria-labelledby = 'TabPilar-17']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 15)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>d01e8b6f-e7c3-4232-9878-7db643bdc50b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,6 +99,14 @@
                             ' or . = '
                                 A. Rasio DER dibawah dari ketentuan yang berlaku sesuai segmen dan sektor usaha debitur 
                             ')]</value>
-      <webElementGuid>fe36c6e5-e7ab-4cbe-8680-d582de4b0346</webElementGuid>
+      <webElementGuid>d5ee7f19-1706-4a77-aae0-7dd7f1b38a32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'TabPilar-2']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 15)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>c1e1f55b-04f8-47dc-9ef9-6e0b8143dec3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

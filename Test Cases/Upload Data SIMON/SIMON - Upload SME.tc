@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SIMON - Upload SME</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b543a223-5e4e-4676-825a-d7c77ecfd16a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8c6e5224-7d69-4202-baba-dcfb33b49b9b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8c6e5224-7d69-4202-baba-dcfb33b49b9b</id>
+      <masked>false</masked>
+      <name>filePath</name>
+   </variable>
+</TestCaseEntity>

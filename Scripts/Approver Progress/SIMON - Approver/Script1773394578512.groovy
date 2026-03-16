@@ -66,13 +66,34 @@ WebUI.click(findTestObject('Page_Inbox - SIMON/a_btn-formkualitatif'))
 WebUI.takeScreenshot()
 
 // Next
+WebUI.waitForElementVisible(findTestObject('Page_Inbox - SIMON/button_Next'), 10)
 WebUI.scrollToElement(findTestObject('Page_Inbox - SIMON/button_Next'), 10)
 
 WebUI.click(findTestObject('Page_Inbox - SIMON/button_Next'))
 
 WebUI.takeScreenshot()
 
+// Next
+WebUI.waitForElementVisible(findTestObject('Page_Inbox - SIMON/button_Next'), 10)
+WebUI.scrollToElement(findTestObject('Page_Inbox - SIMON/button_Next'), 10)
+
+WebUI.click(findTestObject('Page_Inbox - SIMON/button_Next'))
+
+WebUI.takeScreenshot()
+
+
+// Next
+WebUI.waitForElementVisible(findTestObject('Page_Inbox - SIMON/button_Next'), 10)
+WebUI.scrollToElement(findTestObject('Page_Inbox - SIMON/button_Next'), 10)
+
+WebUI.click(findTestObject('Page_Inbox - SIMON/button_Next'))
+
+WebUI.takeScreenshot()
+
+
 // Approve
+WebUI.waitForElementVisible(findTestObject('Page_Inbox - SIMON/button_Approve'), 10)
+
 WebUI.scrollToElement(findTestObject('Page_Inbox - SIMON/button_Approve'), 10)
 
 WebUI.click(findTestObject('Page_Inbox - SIMON/button_Approve'))

@@ -6,12 +6,16 @@
    <elementGuidId>cf8dd8a9-ce8f-441b-8c82-3d5487246d5c</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'file']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#file</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id = 'file']</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'file' and @id = 'file']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5847b129-96d0-4208-a7f5-0a585255423b</webElementGuid>
+      <webElementGuid>5f94495e-1f7e-4343-abd3-c9adddd0a4c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>file</value>
-      <webElementGuid>d45d4b71-893a-42c1-a64e-fa1f3ea6953a</webElementGuid>
+      <webElementGuid>e067eee7-66ed-4983-9914-c9f1dafcaa5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control dropify</value>
-      <webElementGuid>b46de6b6-77b6-4948-8b8f-e7e528043cdb</webElementGuid>
+      <webElementGuid>a19d04a3-8078-4973-b459-1048d2014fbe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +57,7 @@
       <name>id</name>
       <type>Main</type>
       <value>file</value>
-      <webElementGuid>f802e997-9522-4e0e-aba3-3f379c916074</webElementGuid>
+      <webElementGuid>20a53b5e-2fdf-4e09-9924-7f8175a48ded</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>data-allowed-file-extensions</name>
       <type>Main</type>
       <value>[&quot;pdf&quot;, &quot;PDF&quot;, &quot;Pdf&quot;]</value>
-      <webElementGuid>a1b9fb2f-0dde-4414-bbac-d94a775425f9</webElementGuid>
+      <webElementGuid>9704bfaa-abe5-4abb-a9b9-339d14e27e1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-b5671266dfec9229443d9a50fa8e8049</value>
-      <webElementGuid>ec9b2ee1-0175-46e0-b732-0e1e4f55bd0e</webElementGuid>
+      <webElementGuid>abde70f4-f6f8-4cb5-b642-6fb2383ced51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'file']</value>
-      <webElementGuid>c435423e-5f68-45fd-9084-28d1baac7830</webElementGuid>
+      <webElementGuid>9c61a0f5-1f1f-4ade-b6f0-e37f8a03e425</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'file']</value>
-      <webElementGuid>82ced98a-96c2-4304-b8de-0ae06a92cdef</webElementGuid>
+      <webElementGuid>4ff1f145-7544-45f0-9cf5-ee14c67316ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +97,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'file' and @id = 'file']</value>
-      <webElementGuid>f2c38fe0-451b-46e9-964f-04d2390c9878</webElementGuid>
+      <webElementGuid>4c07a6ea-a13d-40a3-9dac-152064bf83bc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

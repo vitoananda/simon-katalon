@@ -6,12 +6,16 @@
    <elementGuidId>77d28b3c-de11-4dc1-854c-388748943a94</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[(@role = 'option') and (position() = 4)]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>[role=&quot;option&quot;]:nth-child(4)</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[(@role = 'option') and (position() = 4)]</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Monitoring jaminan bergerak dan tidak bergerak, termasuk verifikasi penilaian jaminan, dan pemantauan kesempurnaan pengikatan jaminan. Dilampirkan melalui upload dokumen dengan format PDF' or . = 'Monitoring jaminan bergerak dan tidak bergerak, termasuk verifikasi penilaian jaminan, dan pemantauan kesempurnaan pengikatan jaminan. Dilampirkan melalui upload dokumen dengan format PDF')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>b321b2dc-b777-46a1-ab7f-b32cdf257e9e</webElementGuid>
+      <webElementGuid>7f9188d3-29a9-4033-94b0-9f9ed1f96907</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-results__option select2-results__option--highlighted</value>
-      <webElementGuid>bfa57f0b-d7c3-439c-acda-cc63b0665620</webElementGuid>
+      <webElementGuid>0742d0bb-94d7-447e-9fdc-43071cff4876</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>eca41e83-1d6d-4e45-86fe-9814fa925374</webElementGuid>
+      <webElementGuid>5d543534-9495-4ef5-983a-7c0388814f39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3fab317e-489d-4d6f-80b5-4116d67a22f2</webElementGuid>
+      <webElementGuid>05f55509-5e44-460e-bc4d-6a477cb12b18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>data-select2-id</name>
       <type>Main</type>
       <value>106</value>
-      <webElementGuid>013a4d69-a9ab-422b-9057-e828f05c5ff1</webElementGuid>
+      <webElementGuid>e307d5e2-0c88-4545-b64f-220c0da14937</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +73,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Monitoring jaminan bergerak dan tidak bergerak, termasuk verifikasi penilaian jaminan, dan pemantauan kesempurnaan pengikatan jaminan. Dilampirkan melalui upload dokumen dengan format PDF</value>
-      <webElementGuid>7334b3e0-3a92-42a4-9784-9b3be0d499b0</webElementGuid>
+      <webElementGuid>59d91f7a-5e0f-487d-863e-fa63d7d5968f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-a2fc4237b447912142f8e47f1e5d0571</value>
-      <webElementGuid>80e5fc9c-3952-44f8-8893-b8ee9cc23dfd</webElementGuid>
+      <webElementGuid>3bc1eb2a-0fb6-4f5a-924b-e31fd3a757e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[(@role = 'option') and (position() = 4)]</value>
-      <webElementGuid>06699922-ca95-48fb-91e0-67f4f0bad40a</webElementGuid>
+      <webElementGuid>4b6bebff-a954-4fe5-a61e-cd8ad103cbfe</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[(@role = 'option') and (position() = 4)]</value>
-      <webElementGuid>a33728bd-f30f-4181-aff3-0596495a9ec9</webElementGuid>
+      <webElementGuid>702b372f-cbe9-4836-8f87-7193e8a0677b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Monitoring jaminan bergerak dan tidak bergerak, termasuk verifikasi penilaian jaminan, dan pemantauan kesempurnaan pengikatan jaminan. Dilampirkan melalui upload dokumen dengan format PDF' or . = 'Monitoring jaminan bergerak dan tidak bergerak, termasuk verifikasi penilaian jaminan, dan pemantauan kesempurnaan pengikatan jaminan. Dilampirkan melalui upload dokumen dengan format PDF')]</value>
-      <webElementGuid>7fc50d77-144a-43b9-9fe6-a61ed146880e</webElementGuid>
+      <webElementGuid>13def76c-47cf-4938-8c09-43691499359a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

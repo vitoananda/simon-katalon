@@ -6,11 +6,15 @@
    <elementGuidId>601dd28d-a438-48ad-872f-0d2201488f9e</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'select2-CurrencyMaksKredit-container']//span[@role = 'presentation']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>[aria-labelledby=&quot;select2-CurrencyMaksKredit-container&quot;] span[role=&quot;presentation&quot;]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
+         <key>BASIC</key>
          <value>//*[@aria-labelledby = 'select2-CurrencyMaksKredit-container']//span[@role = 'presentation']</value>
       </entry>
    </selectorCollection>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>72693789-5a33-4f7e-8a84-f1c2615bdefa</webElementGuid>
+      <webElementGuid>18f9fd8b-5fc4-4fa0-a041-833e0d1b1266</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__arrow</value>
-      <webElementGuid>16f33c35-dfca-43cb-8d17-0809a406f6b0</webElementGuid>
+      <webElementGuid>d0e14c15-6e9c-474e-b2c1-c6ab6b1f534e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>role</name>
       <type>Main</type>
       <value>presentation</value>
-      <webElementGuid>90bce60f-d8cf-4a77-a591-cf55a60985ca</webElementGuid>
+      <webElementGuid>c0e5e763-6c65-4357-a182-4774efcfa549</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-d5e5b6edead6dc180e748276816f53b6</value>
-      <webElementGuid>822f9c2c-5065-46d8-a8dc-979a93cd3dc1</webElementGuid>
+      <webElementGuid>4b06478f-c02a-42d5-988b-d63e9115734c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@aria-labelledby = 'select2-CurrencyMaksKredit-container']//span[@role = 'presentation']</value>
-      <webElementGuid>77bc722a-e8dc-4a15-b949-ee6d3278a551</webElementGuid>
+      <webElementGuid>8b40d04e-89fa-44d1-8ba7-c946c03ccd0e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,6 +73,6 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@aria-labelledby = 'select2-CurrencyMaksKredit-container']//span[@role = 'presentation']</value>
-      <webElementGuid>5beff61a-c474-4eda-9b4d-826870c9d3c0</webElementGuid>
+      <webElementGuid>e6ce7de9-8938-403e-ad75-9e932a84b416</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

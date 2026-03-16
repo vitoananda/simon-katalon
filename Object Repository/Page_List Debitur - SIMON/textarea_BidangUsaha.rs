@@ -6,12 +6,16 @@
    <elementGuidId>aeaaf4b3-bbfc-4023-8551-f84ad68af76b</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'BidangUsaha']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#BidangUsaha</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id = 'BidangUsaha']</value>
+         <key>BASIC</key>
+         <value>//*[@name = 'BidangUsaha' and @id = 'BidangUsaha']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>d6b09108-e169-40dc-89ac-6be78d105e19</webElementGuid>
+      <webElementGuid>582110b1-edde-4e23-b1d7-a49dd0fa04cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>required</name>
       <type>Main</type>
       <value>True</value>
-      <webElementGuid>71829f25-aa8a-4664-8a16-2d81e8367239</webElementGuid>
+      <webElementGuid>c0a914aa-9606-4c11-90d6-8b4de27c7a7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>name</name>
       <type>Main</type>
       <value>BidangUsaha</value>
-      <webElementGuid>5c68e857-dbd0-4b3d-b8c9-0fb0c63f7907</webElementGuid>
+      <webElementGuid>59a2b456-391c-4b5f-a584-de6834d9856f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +57,7 @@
       <name>id</name>
       <type>Main</type>
       <value>BidangUsaha</value>
-      <webElementGuid>d0653bb4-0d15-428c-8866-b6495bad1086</webElementGuid>
+      <webElementGuid>8dad8383-9f83-4a2e-9212-29f4c41eb9f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control custom-hght75px</value>
-      <webElementGuid>b957fdf9-e0ac-4882-9602-7fa23d74e226</webElementGuid>
+      <webElementGuid>d6b85123-cc1b-44e3-a062-de84ef515277</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>fd166563-f2f5-4153-bc13-44d7a20c148b</webElementGuid>
+      <webElementGuid>abbbc2bb-f491-40fb-a1a9-290b37e9101b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-049c6a920a0b32861cab86f796bbfa85</value>
-      <webElementGuid>23d9698d-4792-4b4e-af51-2fca8ba0b790</webElementGuid>
+      <webElementGuid>34574a01-f51d-450a-8ce5-34438223d944</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'BidangUsaha']</value>
-      <webElementGuid>ee8e3042-80c0-4539-942e-ca54c22564c3</webElementGuid>
+      <webElementGuid>3e3b423a-10fc-48be-881c-33818894188b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'BidangUsaha']</value>
-      <webElementGuid>9abb2ac0-2184-4cd6-8282-1c97e26b8809</webElementGuid>
+      <webElementGuid>8be175f8-2359-49e7-8c30-589059544f64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@name = 'BidangUsaha' and @id = 'BidangUsaha']</value>
-      <webElementGuid>d4bef589-0181-4334-ad67-882d677214a6</webElementGuid>
+      <webElementGuid>6f0794f0-5b49-4b6e-859b-b5de8cfc4b1b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

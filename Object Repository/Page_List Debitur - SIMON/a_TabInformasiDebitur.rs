@@ -6,12 +6,16 @@
    <elementGuidId>22bc60ca-be98-471f-ae5f-94b6bd0084fe</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'TabInformasiDebitur']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#TabInformasiDebitur</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id = 'TabInformasiDebitur']</value>
+         <key>BASIC</key>
+         <value>//*[@href = '#TabInformasiDebitur-Page' and @id = 'TabInformasiDebitur' and (text() = 'Informasi Debitur' or . = 'Informasi Debitur')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>0ead0936-90a8-4dfa-a57e-14c928100e71</webElementGuid>
+      <webElementGuid>0d105f56-d26b-4295-b424-f60c1b845351</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8d734f4c-74d2-4a64-b03f-d72c3d88180c</webElementGuid>
+      <webElementGuid>002e70d0-db97-442e-bd7b-9cfca6c441d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>Memorandum</value>
-      <webElementGuid>a781418b-b30e-4fd5-9861-e57964623e3b</webElementGuid>
+      <webElementGuid>9d76814c-6283-469a-9cca-2df84b27616f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>role</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>87cb173d-2e22-4d9c-999e-347223b084fc</webElementGuid>
+      <webElementGuid>3b6e1533-e8a8-4c0f-8987-0bff08923376</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +65,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#TabInformasiDebitur-Page</value>
-      <webElementGuid>fb2b0d67-127c-4113-84bf-760e60d3260a</webElementGuid>
+      <webElementGuid>8d836f9a-9437-445c-b9e3-09a8c46a7310</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>66d1b34f-97fd-4818-ae2f-9d30ed77d991</webElementGuid>
+      <webElementGuid>aab39ecf-c435-4ef7-ad31-320daa6b2d8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +81,7 @@
       <name>id</name>
       <type>Main</type>
       <value>TabInformasiDebitur</value>
-      <webElementGuid>e296c2ae-b14c-4c34-9e01-39f66e9c55f1</webElementGuid>
+      <webElementGuid>6d342de3-80ea-4d9a-9b6b-13325eb87c25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link</value>
-      <webElementGuid>b57bf8cc-71fb-4c54-98b5-12accfd6dbb6</webElementGuid>
+      <webElementGuid>e534c805-ee38-4409-97a6-3d546c32cafe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -93,7 +97,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Informasi Debitur</value>
-      <webElementGuid>cf892f0e-a587-4b2b-8028-47342fbf284e</webElementGuid>
+      <webElementGuid>04e7fc7a-6d7d-40f5-98d4-3c73671fe02c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +105,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-af28a601cf5bd2fa7d8d6beaf15ff568</value>
-      <webElementGuid>ca70dfef-0969-4c81-a758-3d03059adc25</webElementGuid>
+      <webElementGuid>fab90196-053f-4d7b-a3e6-239dc9cf7e2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +113,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'TabInformasiDebitur']</value>
-      <webElementGuid>af5b57bc-b34c-4001-8aa2-e922fbabc524</webElementGuid>
+      <webElementGuid>a69febee-9235-4bcc-8086-114185ea182c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +121,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'TabInformasiDebitur']</value>
-      <webElementGuid>6d14c138-2919-4902-ba26-a8604fc67b4c</webElementGuid>
+      <webElementGuid>80258360-3194-4d26-abe3-a1b1c805816f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +129,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#TabInformasiDebitur-Page' and @id = 'TabInformasiDebitur' and (text() = 'Informasi Debitur' or . = 'Informasi Debitur')]</value>
-      <webElementGuid>5e9b0090-6e83-4f25-9c51-2a382ec313f5</webElementGuid>
+      <webElementGuid>e3dad687-7e75-4ef3-b7df-40905e9579c6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
