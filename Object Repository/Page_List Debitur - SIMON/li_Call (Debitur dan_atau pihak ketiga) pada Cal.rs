@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_btn-formkualitatif</name>
+   <name>li_Call (Debitur dan_atau pihak ketiga) pada Cal</name>
    <tag></tag>
-   <elementGuidId>8a5ced16-abd9-4f75-b8a4-3f9cbf48db2b</elementGuidId>
+   <elementGuidId>541431fd-6dea-4971-ad2b-f5e0f2742c1e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#btn-formkualitatif</value>
+         <value>[role=&quot;option&quot;]:nth-child(3)</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'btn-formkualitatif']</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@href = '#' and @id = 'btn-formkualitatif' and (text() = 'Form SIMON Kualitatif' or . = 'Form SIMON Kualitatif')]</value>
+         <value>//*[(@role = 'option') and (position() = 3)]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Form SIMON Kualitatif&quot;i]</value>
+         <value>internal:role=option[name=&quot;Call (Debitur dan/atau pihak ketiga) pada Call Memo dalam 3 bulan terakhir&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -32,87 +28,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>528c5181-5908-4d44-a2dd-9efc24f53b2a</webElementGuid>
+      <value>li</value>
+      <webElementGuid>0134b547-a2a0-47d9-986c-f00c481fd5c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>dropdown-item</value>
-      <webElementGuid>762031f5-27c2-4e46-b1e3-cdcc7b5e2411</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>#</value>
-      <webElementGuid>f39cecf5-958e-4314-89f3-798a56b978c0</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>btn-formkualitatif</value>
-      <webElementGuid>e22a7bb0-4217-4e69-9016-8eb1c136c868</webElementGuid>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>f3ade2b9-9616-481a-9d77-d27a576f6779</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>role</name>
       <type>Main</type>
-      <value>138816</value>
-      <webElementGuid>d7ac32a0-a0f4-4344-944d-9e8dae21e149</webElementGuid>
+      <value>option</value>
+      <webElementGuid>c1f1eb70-2d0c-48b1-8a4e-00f9154cbbd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-segmen</name>
+      <name>aria-selected</name>
       <type>Main</type>
-      <value>5</value>
-      <webElementGuid>324a9f32-d632-4867-8a30-cb6bce08f622</webElementGuid>
+      <value>false</value>
+      <webElementGuid>f6d902b1-6154-4b3c-949e-a3d34744cf9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>93</value>
+      <webElementGuid>45f47320-2c56-4576-aa50-084a894e39a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Form SIMON Kualitatif</value>
-      <webElementGuid>0ca50b31-d0f2-4f16-9990-827e3ab36b43</webElementGuid>
+      <value>Call (Debitur dan/atau pihak ketiga) pada Call Memo dalam 3 bulan terakhir</value>
+      <webElementGuid>2c9c8dd5-9b13-4b57-b506-99152f57dd43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-37354bbaa94d8c0eceb1a7938111bc53</value>
-      <webElementGuid>61e5793b-a24e-4649-a704-19aa319752ca</webElementGuid>
+      <value>md5.v1-d8e3ca259a282ee70258f821bc844051</value>
+      <webElementGuid>702e5d16-e1de-4015-b98b-951efaba76df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'btn-formkualitatif']</value>
-      <webElementGuid>72ae935d-d9e2-4dd8-804b-9379c36ca40c</webElementGuid>
+      <value>//*[(@role = 'option') and (position() = 3)]</value>
+      <webElementGuid>ab088789-e6a1-4e5a-adf9-6698cd9ba5e8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'btn-formkualitatif']</value>
-      <webElementGuid>2cab7619-f843-4ccb-8606-48e96061642e</webElementGuid>
+      <value>//*[(@role = 'option') and (position() = 3)]</value>
+      <webElementGuid>d1d63d39-6802-4bea-bd37-a5f308687790</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '#' and @id = 'btn-formkualitatif' and (text() = 'Form SIMON Kualitatif' or . = 'Form SIMON Kualitatif')]</value>
-      <webElementGuid>60298fd0-c342-4d9f-bd8c-d707e67854ad</webElementGuid>
+      <value>//li[(text() = 'Call (Debitur dan/atau pihak ketiga) pada Call Memo dalam 3 bulan terakhir' or . = 'Call (Debitur dan/atau pihak ketiga) pada Call Memo dalam 3 bulan terakhir')]</value>
+      <webElementGuid>91d96407-4114-44f0-af4d-2fd41dc15cf7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

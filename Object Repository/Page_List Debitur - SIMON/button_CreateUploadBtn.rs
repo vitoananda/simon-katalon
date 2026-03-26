@@ -13,6 +13,10 @@
          <key>XPATH</key>
          <value>//*[@id = 'CreateUploadBtn']</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'CreateUploadBtn' and (text() = 'Tambah Data' or . = 'Tambah Data')]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>668493ad-52f0-4b23-8a59-363c761bc492</webElementGuid>
+      <webElementGuid>0fcc93da-af8a-4afd-a8d9-1730001fc415</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>id</name>
       <type>Main</type>
       <value>CreateUploadBtn</value>
-      <webElementGuid>4dd4a3fc-fecb-4ac7-9fbc-581aa269e9b7</webElementGuid>
+      <webElementGuid>5de3b490-a2a5-48c6-b22a-bf5b76d7feac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-info mb-2 custom-clrwht</value>
-      <webElementGuid>53d87630-fd95-41d4-b3d6-91a4882955fe</webElementGuid>
+      <webElementGuid>c28ac730-431c-438a-a3d6-b0fac51bc77f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tambah Data</value>
-      <webElementGuid>389f2c8d-22e7-434c-ae39-bfc2fdded420</webElementGuid>
+      <webElementGuid>41f1ae38-0a1f-4116-a8d4-d84587ad682e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-e1ce2dcf1dbf0bafa3929ab2b6ee6313</value>
-      <webElementGuid>0d8343d9-4110-4498-999c-a9272e305eae</webElementGuid>
+      <webElementGuid>94f02b2c-120e-4f7a-9bfe-1537d4f0b387</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'CreateUploadBtn']</value>
-      <webElementGuid>83877c9b-cec9-420c-90d4-61588793e205</webElementGuid>
+      <webElementGuid>45633b2a-1a55-4e23-becb-3935b5b7076a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'CreateUploadBtn']</value>
-      <webElementGuid>ac54d77c-a70d-4cc3-b44a-d0da306ec3fd</webElementGuid>
+      <webElementGuid>d86c8716-a07b-475f-8e83-11d249346281</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'CreateUploadBtn' and (text() = 'Tambah Data' or . = 'Tambah Data')]</value>
-      <webElementGuid>8aef68c8-e94d-413a-bb55-a410ca243fc1</webElementGuid>
+      <webElementGuid>8d781318-8a4f-420c-bdf6-b5c3202628cd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

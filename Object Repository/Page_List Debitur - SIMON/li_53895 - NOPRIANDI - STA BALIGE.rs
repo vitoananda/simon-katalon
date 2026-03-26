@@ -1,32 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_btnUploadAktivitas</name>
+   <name>li_53895 - NOPRIANDI - STA BALIGE</name>
    <tag></tag>
-   <elementGuidId>48141cce-e0ac-419a-a134-3429cdabfce0</elementGuidId>
+   <elementGuidId>e92881ce-b1b9-4d12-9d5f-5ac9b60ae5ac</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#btnUploadAktivitas</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'btnUploadAktivitas']</value>
+         <value>//*[(@role = 'option') and (position() = 13)]</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'button' and @id = 'btnUploadAktivitas' and (text() = '
-                                Submit
-                            ' or . = '
-                                Submit
-                            ')]</value>
+         <key>CSS</key>
+         <value>[role=&quot;option&quot;]:nth-child(13)</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Submit&quot;i]</value>
+         <value>internal:role=option[name=&quot;24899 - DUDI MURTIAWAN - SBK MEDAN&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -36,77 +28,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>4e394656-bcfa-46bf-9639-88624f423849</webElementGuid>
+      <value>li</value>
+      <webElementGuid>fe28c651-7347-4b5d-b79a-99de27a0acb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>80bf5a57-57c8-48ab-8596-926d50f0120c</webElementGuid>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>f6206905-3d63-4580-9d0f-7b96b8fd3eb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>role</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>01b01e14-61ee-4a7b-89a2-a345c8f0752b</webElementGuid>
+      <value>option</value>
+      <webElementGuid>ebcd1faf-55f5-4b5b-8103-ea3db22b83a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>aria-selected</name>
       <type>Main</type>
-      <value>btnUploadAktivitas</value>
-      <webElementGuid>89ed0be3-fd9b-497c-acd6-55b86ccae93a</webElementGuid>
+      <value>false</value>
+      <webElementGuid>c1de7d0c-5ca4-4a80-a846-c0437b0addfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>252</value>
+      <webElementGuid>7a4c2d56-b9ff-4d0c-8b30-a7dee2ee9bc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-                                Submit
-                            </value>
-      <webElementGuid>0d953e58-863f-41ec-95f8-c43ceb6abd42</webElementGuid>
+      <value>24899 - DUDI MURTIAWAN - SBK MEDAN</value>
+      <webElementGuid>64b1bc50-9015-4dfb-b87f-2ba92d78e11c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-f54ce7cd28bef6f76574d55f0a0e5d2d</value>
-      <webElementGuid>12a3de02-c8b1-4efe-831a-f9bab67b91e6</webElementGuid>
+      <value>md5.v1-5fcfb79260e41eac4e3dc5b65d294900</value>
+      <webElementGuid>ec4cce62-eda4-443e-a360-3c00c97cf2d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'btnUploadAktivitas']</value>
-      <webElementGuid>1b7933e6-b1a0-402b-a553-4f1a764b2770</webElementGuid>
+      <value>//*[(@role = 'option') and (position() = 13)]</value>
+      <webElementGuid>7ad11c5b-08cc-4fb2-9b06-0d3987945f54</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'btnUploadAktivitas']</value>
-      <webElementGuid>5bcfd4c1-4d3e-491e-b1b1-1a711dff16fd</webElementGuid>
+      <value>//*[(@role = 'option') and (position() = 13)]</value>
+      <webElementGuid>ca62404e-a0fa-467f-9417-6da3f26b1ef0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'btnUploadAktivitas' and (text() = '
-                                Submit
-                            ' or . = '
-                                Submit
-                            ')]</value>
-      <webElementGuid>fd0af3dd-da6b-4b27-8f73-a84093e9ac15</webElementGuid>
+      <value>//li[(text() = '53895 - NOPRIANDI - STA BALIGE' or . = '53895 - NOPRIANDI - STA BALIGE')]</value>
+      <webElementGuid>361fc850-5d20-4520-a04e-116c6016482c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>SIMON- Inputter SME</name>
+   <name>New Test Case</name>
    <tag></tag>
    <comment></comment>
+   <origin>WEB_RECORDER</origin>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>9281d060-5368-400a-a926-f33ee71bb560</testCaseGuid>
+   <testCaseGuid>dd847128-5057-47e2-8fa5-d6d8c5f9f643</testCaseGuid>
 </TestCaseEntity>

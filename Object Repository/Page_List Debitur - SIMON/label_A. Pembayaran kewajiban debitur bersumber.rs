@@ -6,12 +6,12 @@
    <elementGuidId>1fd26490-1932-4ead-a22b-893b97150b4b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 65)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>.form-check:nth-child(65) .form-check-label.custom-mrgnlft</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 65)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
       </entry>
       <entry>
          <key>BASIC</key>
@@ -37,15 +37,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>d73cda45-2ae8-4116-9d0b-330e4e50fdc1</webElementGuid>
+      <webElementGuid>ad99c53e-b761-4e13-bb2d-da2aa164c18f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>for</name>
       <type>Main</type>
-      <value>default-jawaban-597</value>
-      <webElementGuid>a955f4a9-8806-4df8-a422-3a25224c4dea</webElementGuid>
+      <value>default-jawaban-249</value>
+      <webElementGuid>c90863cd-a031-439b-8702-09e2e3d46079</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-label custom-mrgnlft</value>
-      <webElementGuid>c6fd18e7-5111-4b4d-877b-266e22dd4252</webElementGuid>
+      <webElementGuid>76f0130b-f470-4833-8ca5-e5d33058868c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <value>
                                 A. Pembayaran kewajiban debitur bersumber dari First Way Out debitur yang dapat terindentifikasi dan terverifikasi
                             </value>
-      <webElementGuid>21f50d6e-4db3-4b34-a18b-8e544382a303</webElementGuid>
+      <webElementGuid>55696b49-6242-4fd4-8229-d448a28b06ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-71cec295c9a20feb755395bd04b95bba</value>
-      <webElementGuid>e9569796-fca4-42df-857f-5f1c5b022064</webElementGuid>
+      <webElementGuid>6374036e-8934-4fc0-b194-1ff28a39f920</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 65)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>43c8748f-cc90-411b-adf0-2dd2b44049bd</webElementGuid>
+      <webElementGuid>86aa7e1d-cbfa-45c3-ad23-48a345e4b3f4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 65)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>5b47493f-5c11-4e7c-9ced-8e5b8994e21a</webElementGuid>
+      <webElementGuid>8f259f39-49b6-466a-b31a-b198956258e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,15 @@
                             ' or . = '
                                 A. Pembayaran kewajiban debitur bersumber dari First Way Out debitur yang dapat terindentifikasi dan terverifikasi
                             ')]</value>
-      <webElementGuid>0b34fc6e-a558-4566-ad0a-668a2c480330</webElementGuid>
+      <webElementGuid>eb30ed7d-0639-4055-8748-65614b9e73c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 65)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' leftmargin-unset ')]</value>
+      <webElementGuid>cf65e408-ee3b-4bc2-8902-cd94d97ccbc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -6,12 +6,20 @@
    <elementGuidId>cef122c3-7ce1-48aa-a961-893b07479174</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@aria-labelledby = 'TabPilar-18']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 9)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+         <key>CSS</key>
+         <value>.form-check:nth-child(9) .form-check-label.custom-mrgnlft</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>[aria-labelledby=&quot;TabPilar-18&quot;] .form-check:nth-child(9) .form-check-label.custom-mrgnlft</value>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 9)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+                                A. Secara proaktif menyampaikan informasi
+                            ' or . = '
+                                A. Secara proaktif menyampaikan informasi
+                            ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,15 +37,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>2c75896e-2861-4035-99fc-0db5f5a4d46d</webElementGuid>
+      <webElementGuid>1afb06b2-6cdb-4098-a21c-b2367611f7e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>for</name>
       <type>Main</type>
-      <value>default-jawaban-554</value>
-      <webElementGuid>fef32460-df9f-42a3-a8a8-72eb79264bd8</webElementGuid>
+      <value>default-jawaban-185</value>
+      <webElementGuid>3e32a372-eae3-42ce-8e4f-b5a9985dbfd3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-label custom-mrgnlft</value>
-      <webElementGuid>bc48ecd1-12c0-45b3-a6ec-198ac492fdd2</webElementGuid>
+      <webElementGuid>b1eff866-fa11-4d34-b4e6-c3bbc2e2cfe8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,31 +63,31 @@
       <value>
                                 A. Secara proaktif menyampaikan informasi
                             </value>
-      <webElementGuid>6d26b78d-7cf0-4841-b6f2-85aafbab8028</webElementGuid>
+      <webElementGuid>0cce0149-4433-4de8-b977-f60eb16ece00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-6515909effeba2e58565e8f89ca2872c</value>
-      <webElementGuid>593ac261-3db7-43cc-8bb1-16eb7e369c49</webElementGuid>
+      <value>md5.v1-3b2d58d618149ff1df3806ae08ae1f99</value>
+      <webElementGuid>cca55dd7-df43-403e-bcf6-d197992b5e3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@aria-labelledby = 'TabPilar-18']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 9)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>15811dd9-4ed7-42fc-ac6b-1f2341e3c224</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 9)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>60f6d1a1-1046-4c12-b3b1-82b4c1f73f6e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@aria-labelledby = 'TabPilar-18']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 9)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>1710a265-f888-4110-a11b-335e94eb9112</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 9)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>6646dcb7-7129-47ab-a3ad-e7bff83b1ac1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,6 +99,22 @@
                             ' or . = '
                                 A. Secara proaktif menyampaikan informasi
                             ')]</value>
-      <webElementGuid>f80f32cb-499c-469f-87c7-bc1c88a04676</webElementGuid>
+      <webElementGuid>126caa03-c8a1-4f79-b6a7-54201b8f609a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 9)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' leftmargin-unset ')]</value>
+      <webElementGuid>c4e71ff8-e2b3-4ace-a09d-a69056181710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'TabPilar-18']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 9)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>1710a265-f888-4110-a11b-335e94eb9112</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

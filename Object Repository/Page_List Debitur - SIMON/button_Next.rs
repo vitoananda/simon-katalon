@@ -6,12 +6,12 @@
    <elementGuidId>53990756-ead0-44ae-821f-aaaf1c5a4de6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ') and contains(concat(' ', normalize-space(@class), ' '), ' sw-btn-next ')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>.btn.sw-btn-next</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ') and contains(concat(' ', normalize-space(@class), ' '), ' sw-btn-next ')]</value>
       </entry>
       <entry>
          <key>BASIC</key>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6176c7a8-789a-4b58-a6af-263823778af6</webElementGuid>
+      <webElementGuid>1972cf2a-0d24-42d5-8acd-2b71761ed716</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn sw-btn-next</value>
-      <webElementGuid>09d488f6-bab4-4f91-ac70-980878843145</webElementGuid>
+      <webElementGuid>31ec2bf2-2ff7-4f71-ad39-bc587afc81b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>908b4502-74dc-4509-8451-1fba70a1c7cd</webElementGuid>
+      <webElementGuid>9c6eee5a-f871-4272-9438-9587ceb4949f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Next</value>
-      <webElementGuid>81576e33-cb65-43ba-bc91-0c5ae41b77da</webElementGuid>
+      <webElementGuid>836c17ee-c436-4fd5-8e78-7caa64f75a67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-8a7a91ec8249b030da34888d3e051dea</value>
-      <webElementGuid>82651310-7fb6-4126-a2d9-8c59bf2f5df8</webElementGuid>
+      <webElementGuid>d2406713-76f7-4c76-b6d4-15c0dbb6f400</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ') and contains(concat(' ', normalize-space(@class), ' '), ' sw-btn-next ')]</value>
-      <webElementGuid>40237c4a-d479-4edd-a242-680c1e544f88</webElementGuid>
+      <webElementGuid>b524971b-ffb3-4453-9072-95ab3c279d90</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ') and contains(concat(' ', normalize-space(@class), ' '), ' sw-btn-next ')]</value>
-      <webElementGuid>0c70554e-f3fb-474b-a525-2f7e6ffef2da</webElementGuid>
+      <webElementGuid>bd6f7dc7-2a98-4efc-b97d-7ca469ab4c33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Next' or . = 'Next')]</value>
-      <webElementGuid>46225468-0836-447b-9b11-d7d7fe6eebfc</webElementGuid>
+      <webElementGuid>1532c09b-37f7-47d8-a5c7-5a9e7a2efae4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -13,6 +13,10 @@
          <key>XPATH</key>
          <value>//*[@aria-labelledby = 'select2-Approver1-container']</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '-Silahkan pilih-' or . = '-Silahkan pilih-')]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>c3b4c224-a799-4b7a-9386-cfd159dc13e6</webElementGuid>
+      <webElementGuid>faaf8072-58f3-4825-ab5b-1e25216bde4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection select2-selection--single</value>
-      <webElementGuid>e00dee43-ce67-4b62-beb1-96e8125724e4</webElementGuid>
+      <webElementGuid>5d33609a-a32d-40cb-a4c3-d27b597456c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>58bab8c3-345f-4df1-9d40-f670e374c1cd</webElementGuid>
+      <webElementGuid>a582807d-7b5d-4ff8-a9eb-b21903c4a229</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>5aee60c6-534e-41c1-82c3-151d98f265dc</webElementGuid>
+      <webElementGuid>dbaa0f1a-cc0c-4979-9e01-7852565fea5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b296ea85-daa2-4911-ad4d-eabbc34c39b6</webElementGuid>
+      <webElementGuid>48988ebe-c982-4066-9eac-58d1fc3dd3ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>260ecd12-5b77-49aa-916f-c093ca5b8d72</webElementGuid>
+      <webElementGuid>03fbbc3e-3dbe-4616-a614-b12e914aeea9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>cac785cd-d27f-402e-9831-b9935bae57b9</webElementGuid>
+      <webElementGuid>4fb7f2ea-748b-45c3-a027-9a3775de873c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>select2-Approver1-container</value>
-      <webElementGuid>dc58f757-e742-4f9a-8eff-2ef8d0e91d8c</webElementGuid>
+      <webElementGuid>020da17c-6c30-4f96-8147-e18ba15216d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -93,7 +97,7 @@
       <name>text</name>
       <type>Main</type>
       <value>-Silahkan pilih-</value>
-      <webElementGuid>6c081c63-5ef8-4816-a750-6b0cdd9b0925</webElementGuid>
+      <webElementGuid>d91082e0-419b-4155-9b48-102e5bcd90ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +105,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-2b39cd46613b03ea37308b58974ca8c5</value>
-      <webElementGuid>e93d35cc-e0a9-4851-9f42-ffc129cb7e48</webElementGuid>
+      <webElementGuid>ecf48997-8e7d-420d-a6c9-55dbb21cceea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +113,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@aria-labelledby = 'select2-Approver1-container']</value>
-      <webElementGuid>98eadfeb-85a7-4bef-b80c-40b0f9983ba7</webElementGuid>
+      <webElementGuid>c479aab1-f89b-4b86-a427-2b8202b624be</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +121,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@aria-labelledby = 'select2-Approver1-container']</value>
-      <webElementGuid>0a1ee7d2-9f05-4506-84cc-8faaba9d0bb1</webElementGuid>
+      <webElementGuid>4eca82b6-a964-4df0-a74e-e4b6da28ef22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +129,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = '-Silahkan pilih-' or . = '-Silahkan pilih-')]</value>
-      <webElementGuid>2f621467-cb42-45d2-991a-4c27da8f8e55</webElementGuid>
+      <webElementGuid>4fb067b3-69af-4a84-a407-bcf1df8cc72e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

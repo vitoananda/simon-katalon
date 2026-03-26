@@ -1,32 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_btnUploadAktivitas</name>
+   <name>li_Monitoring mutasi keuangan (FRP) 1 bulan tera</name>
    <tag></tag>
-   <elementGuidId>48141cce-e0ac-419a-a134-3429cdabfce0</elementGuidId>
+   <elementGuidId>b65ce790-0891-4859-9f3d-6bbe239d1205</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#btnUploadAktivitas</value>
+         <value>[role=&quot;option&quot;]:nth-child(2)</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'btnUploadAktivitas']</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'button' and @id = 'btnUploadAktivitas' and (text() = '
-                                Submit
-                            ' or . = '
-                                Submit
-                            ')]</value>
+         <value>//*[(@role = 'option') and (position() = 2)]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Submit&quot;i]</value>
+         <value>internal:role=option[name=&quot;Monitoring mutasi keuangan (FRP) 1 bulan terakhir&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -36,77 +28,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>4e394656-bcfa-46bf-9639-88624f423849</webElementGuid>
+      <value>li</value>
+      <webElementGuid>788fc93c-3ecc-4d7d-9742-271085ed5a53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>80bf5a57-57c8-48ab-8596-926d50f0120c</webElementGuid>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>cd560d2d-bb60-44ce-bd93-171abf40d59d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>role</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>01b01e14-61ee-4a7b-89a2-a345c8f0752b</webElementGuid>
+      <value>option</value>
+      <webElementGuid>48ac2fe0-f980-4b98-b9e6-9e19e4df47a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>aria-selected</name>
       <type>Main</type>
-      <value>btnUploadAktivitas</value>
-      <webElementGuid>89ed0be3-fd9b-497c-acd6-55b86ccae93a</webElementGuid>
+      <value>false</value>
+      <webElementGuid>c9a8d750-fbbe-4123-8974-2a7e75346ec9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>80</value>
+      <webElementGuid>24d26d42-c2cd-4299-8cdc-2459be79e31e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-                                Submit
-                            </value>
-      <webElementGuid>0d953e58-863f-41ec-95f8-c43ceb6abd42</webElementGuid>
+      <value>Monitoring mutasi keuangan (FRP) 1 bulan terakhir</value>
+      <webElementGuid>152667f2-665c-446f-9b52-0c7e0616532d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-f54ce7cd28bef6f76574d55f0a0e5d2d</value>
-      <webElementGuid>12a3de02-c8b1-4efe-831a-f9bab67b91e6</webElementGuid>
+      <value>md5.v1-7cea6358c17f3fcafe32e993a1ac5a3f</value>
+      <webElementGuid>36faec55-d61d-478f-8c03-c957757be52b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'btnUploadAktivitas']</value>
-      <webElementGuid>1b7933e6-b1a0-402b-a553-4f1a764b2770</webElementGuid>
+      <value>//*[(@role = 'option') and (position() = 2)]</value>
+      <webElementGuid>6b5dfa14-95d4-4901-8580-6cb307ac1f48</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'btnUploadAktivitas']</value>
-      <webElementGuid>5bcfd4c1-4d3e-491e-b1b1-1a711dff16fd</webElementGuid>
+      <value>//*[(@role = 'option') and (position() = 2)]</value>
+      <webElementGuid>9f425045-82f2-40ed-bfa5-66a40b038695</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'btnUploadAktivitas' and (text() = '
-                                Submit
-                            ' or . = '
-                                Submit
-                            ')]</value>
-      <webElementGuid>fd0af3dd-da6b-4b27-8f73-a84093e9ac15</webElementGuid>
+      <value>//li[(text() = 'Monitoring mutasi keuangan (FRP) 1 bulan terakhir' or . = 'Monitoring mutasi keuangan (FRP) 1 bulan terakhir')]</value>
+      <webElementGuid>5e813def-0482-499b-8cf5-38a03fc56b63</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,32 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_btnUploadAktivitas</name>
+   <name>li_30092 - DANIEL ALOYSIUS SARAGI - STA BALIGE</name>
    <tag></tag>
-   <elementGuidId>48141cce-e0ac-419a-a134-3429cdabfce0</elementGuidId>
+   <elementGuidId>5dbcbb82-9d25-4648-a839-d6ee04322d6a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#btnUploadAktivitas</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'btnUploadAktivitas']</value>
+         <value>//*[(@role = 'option') and (position() = 24)]</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'button' and @id = 'btnUploadAktivitas' and (text() = '
-                                Submit
-                            ' or . = '
-                                Submit
-                            ')]</value>
+         <key>CSS</key>
+         <value>[role=&quot;option&quot;]:nth-child(24)</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Submit&quot;i]</value>
+         <value>internal:role=option[name=&quot;30232 - ENY TANZIL - SBK MEDAN&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -36,77 +28,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>4e394656-bcfa-46bf-9639-88624f423849</webElementGuid>
+      <value>li</value>
+      <webElementGuid>4fb7d8a2-524d-45d7-94ad-c466026e27f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>80bf5a57-57c8-48ab-8596-926d50f0120c</webElementGuid>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>ce8f5d84-721b-464b-93b3-f480426c9ffb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>role</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>01b01e14-61ee-4a7b-89a2-a345c8f0752b</webElementGuid>
+      <value>option</value>
+      <webElementGuid>cf03ee4a-7165-44b7-aead-a7ed2a540b19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>aria-selected</name>
       <type>Main</type>
-      <value>btnUploadAktivitas</value>
-      <webElementGuid>89ed0be3-fd9b-497c-acd6-55b86ccae93a</webElementGuid>
+      <value>false</value>
+      <webElementGuid>54c9a8e2-fc83-4b1a-aeb9-5e8f335da61b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>173</value>
+      <webElementGuid>d399bdc1-7224-42a9-8a67-defacceeb001</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-                                Submit
-                            </value>
-      <webElementGuid>0d953e58-863f-41ec-95f8-c43ceb6abd42</webElementGuid>
+      <value>30232 - ENY TANZIL - SBK MEDAN</value>
+      <webElementGuid>58403c38-c475-4a20-9dd8-6b715b7a66a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-f54ce7cd28bef6f76574d55f0a0e5d2d</value>
-      <webElementGuid>12a3de02-c8b1-4efe-831a-f9bab67b91e6</webElementGuid>
+      <value>md5.v1-5b92b754b4859096a7bd917d4caf0c17</value>
+      <webElementGuid>ec380369-a7e9-4b09-b2c8-aee6a87d8a58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'btnUploadAktivitas']</value>
-      <webElementGuid>1b7933e6-b1a0-402b-a553-4f1a764b2770</webElementGuid>
+      <value>//*[(@role = 'option') and (position() = 24)]</value>
+      <webElementGuid>4f9565fe-1d06-476e-b305-e36638420924</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'btnUploadAktivitas']</value>
-      <webElementGuid>5bcfd4c1-4d3e-491e-b1b1-1a711dff16fd</webElementGuid>
+      <value>//*[(@role = 'option') and (position() = 24)]</value>
+      <webElementGuid>3b51d764-dcfa-40f0-baf3-6c80c05fb7c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'btnUploadAktivitas' and (text() = '
-                                Submit
-                            ' or . = '
-                                Submit
-                            ')]</value>
-      <webElementGuid>fd0af3dd-da6b-4b27-8f73-a84093e9ac15</webElementGuid>
+      <value>//li[(text() = '30092 - DANIEL ALOYSIUS SARAGI - STA BALIGE' or . = '30092 - DANIEL ALOYSIUS SARAGI - STA BALIGE')]</value>
+      <webElementGuid>a55a0af1-a84f-4047-8165-c9c28005cca2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

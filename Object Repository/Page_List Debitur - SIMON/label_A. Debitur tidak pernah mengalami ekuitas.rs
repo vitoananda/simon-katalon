@@ -6,12 +6,20 @@
    <elementGuidId>81afcc77-4ae2-4ad6-b17f-77aa638aab2e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@aria-labelledby = 'TabPilar-2']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 10)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+         <key>CSS</key>
+         <value>[aria-labelledby=&quot;TabPilar-11&quot;] .form-check:nth-child(10) .form-check-label.custom-mrgnlft</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>[aria-labelledby=&quot;TabPilar-2&quot;] .form-check:nth-child(10) .form-check-label.custom-mrgnlft</value>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'TabPilar-11']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 10)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+                                A. Debitur tidak pernah mengalami ekuitas negatif dalam 3 tahun terakhir
+                            ' or . = '
+                                A. Debitur tidak pernah mengalami ekuitas negatif dalam 3 tahun terakhir
+                            ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,15 +37,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>8f2ef70e-0d84-48e3-a555-979b282d339f</webElementGuid>
+      <webElementGuid>055661e9-ecb7-4ed5-8c02-1530b0e2a776</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>for</name>
       <type>Main</type>
-      <value>default-jawaban-664</value>
-      <webElementGuid>9821a334-f2fd-497a-8c68-d72319554b7b</webElementGuid>
+      <value>default-jawaban-775</value>
+      <webElementGuid>3c710c47-c04e-4b87-a883-494809930bb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-label custom-mrgnlft</value>
-      <webElementGuid>cf656292-ae4d-4fcd-9016-de3b6629b669</webElementGuid>
+      <webElementGuid>a7d5fc6c-704d-4a4c-b805-e19aea4e4354</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,31 +63,31 @@
       <value>
                                 A. Debitur tidak pernah mengalami ekuitas negatif dalam 3 tahun terakhir
                             </value>
-      <webElementGuid>48c7ba2a-c898-42b2-a48f-cdc975487c33</webElementGuid>
+      <webElementGuid>1ab6555e-d865-47c1-bc53-fc0ffe1b7a75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-513b18405ab1c6103304db8e80db03e3</value>
-      <webElementGuid>0fd71c8d-cae6-4485-b8f1-13e1e8219c08</webElementGuid>
+      <value>md5.v1-bf9441eacd1277f0717aa13454b9dad6</value>
+      <webElementGuid>69abc3ab-8469-40b8-83eb-e2eb7c256110</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@aria-labelledby = 'TabPilar-2']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 10)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>60807b64-fe98-42ed-a242-c01a2d5b0eac</webElementGuid>
+      <value>//*[@aria-labelledby = 'TabPilar-11']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 10)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>2c2255ff-2210-4103-b346-79250c242aab</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@aria-labelledby = 'TabPilar-2']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 10)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>c75384d9-fe16-4989-91af-c0894ac2ede0</webElementGuid>
+      <value>//*[@aria-labelledby = 'TabPilar-11']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 10)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>23f69379-7757-40f2-9956-9dcbbe22dcb3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,6 +99,22 @@
                             ' or . = '
                                 A. Debitur tidak pernah mengalami ekuitas negatif dalam 3 tahun terakhir
                             ')]</value>
-      <webElementGuid>32b51849-d23f-46f2-aa2e-6a3d4169e5b8</webElementGuid>
+      <webElementGuid>220e571d-768a-43fe-8ba1-40a44f1e364e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'TabPilar-11']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 10)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' leftmargin-unset ')]</value>
+      <webElementGuid>7e27a9c8-491a-4cef-9e0c-7796a8db8aca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'TabPilar-2']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 10)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>c75384d9-fe16-4989-91af-c0894ac2ede0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

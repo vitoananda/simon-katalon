@@ -6,12 +6,12 @@
    <elementGuidId>887e4595-70cb-4df3-9b3d-909b92f848a4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@aria-labelledby = '']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 34)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+         <key>CSS</key>
+         <value>[aria-labelledby=&quot;&quot;] .form-check:nth-child(35) .form-check-label.custom-mrgnlft</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>[aria-labelledby=&quot;&quot;] .form-check:nth-child(34) .form-check-label.custom-mrgnlft</value>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = '']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 35)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
       </entry>
       <entry>
          <key>BASIC</key>
@@ -37,15 +37,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>9b3005ac-1b77-467e-b139-99c8c057bb21</webElementGuid>
+      <webElementGuid>595b7ea7-0365-4c2d-9e7e-d9470eac3d1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>for</name>
       <type>Main</type>
-      <value>default-jawaban-519</value>
-      <webElementGuid>f8aef648-4504-48b3-9eb1-da4a9292c57e</webElementGuid>
+      <value>default-jawaban-763</value>
+      <webElementGuid>53943fca-ed85-46c7-9d97-7a0fd7375079</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-label custom-mrgnlft</value>
-      <webElementGuid>fd49f31c-890d-4b79-bb8a-0275967fa607</webElementGuid>
+      <webElementGuid>6c8ae506-f82b-48e2-a22c-f5dba6fa1883</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,31 +63,31 @@
       <value>
                                 0. Tidak memiliki group usaha
                             </value>
-      <webElementGuid>25496e2d-2175-4bb0-9499-11ddb087e363</webElementGuid>
+      <webElementGuid>9cf55444-b9e4-43ba-81cf-6c8021916c45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-1eb0ae94dc9a6474acb23dbd7c7dff60</value>
-      <webElementGuid>32f1e834-5a7f-4512-a51b-207ae19d12d1</webElementGuid>
+      <value>md5.v1-e7b75fb658b2f3addfe4ed0860bbb221</value>
+      <webElementGuid>6e464275-4dbf-47da-a495-6dbdddadc3be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@aria-labelledby = '']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 34)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>a7980aa2-af04-42f7-b30e-86c3569fa123</webElementGuid>
+      <value>//*[@aria-labelledby = '']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 35)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>ecbc54ba-0dc9-4e71-abd0-281f90c2bd67</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@aria-labelledby = '']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 34)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>6506595a-8c80-42e9-89b1-6db455950316</webElementGuid>
+      <value>//*[@aria-labelledby = '']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 35)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>97be7b5e-4f28-422b-8ede-116c3f45d3df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,23 @@
                             ' or . = '
                                 0. Tidak memiliki group usaha
                             ')]</value>
-      <webElementGuid>db0af71b-adb9-4c0e-ba00-ace27fba3c96</webElementGuid>
+      <webElementGuid>b946551e-71dc-40c1-93ce-8435ff7e60c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = '']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 35)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' leftmargin-unset ')]</value>
+      <webElementGuid>f0756658-4154-4519-91e5-4f82570db5dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = '']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 34)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>6506595a-8c80-42e9-89b1-6db455950316</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

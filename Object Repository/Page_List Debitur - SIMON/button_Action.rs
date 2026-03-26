@@ -7,18 +7,22 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#TableBelumDiniali .btn-info</value>
+         <value>.odd[role=&quot;row&quot;]:nth-child(1) .btn-info</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'TableBelumDiniali']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-info ')]</value>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' odd ') and (@role = 'row') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-info ')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Action' or . = 'Action')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Action&quot;i]</value>
+         <value>td >> internal:has-text=&quot;ActionForm SIMON Kualitatif&quot;i >> internal:role=button</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9d0986ef-b841-40cd-907c-6799cc9eea25</webElementGuid>
+      <webElementGuid>3a38d4aa-2683-4713-87aa-62179874821e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>55c39e5e-d12f-4788-9cc8-093d1ee8f4e3</webElementGuid>
+      <webElementGuid>c30594f2-d1fd-4892-afbf-141dd2130ddf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-info dropdown-toggle</value>
-      <webElementGuid>6a09c524-23c6-4305-9d41-9c0c8fa151e1</webElementGuid>
+      <webElementGuid>4cc54907-6e92-4144-a72b-ba7c4ed713be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>18bf84f4-3a6f-4f00-8bd2-9eb641c5c0b3</webElementGuid>
+      <webElementGuid>ea3a58f1-0984-4aac-8979-0a9cb840fa31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>1b7788eb-81bb-4d66-93e8-ce74ac588c88</webElementGuid>
+      <webElementGuid>2965fe47-7816-4f62-94e3-c891b2dae3cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b918e803-ecbf-42f3-9e43-fbd50cc9cbd9</webElementGuid>
+      <webElementGuid>663dc296-12f8-424c-b5a2-47a444befc92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,31 +81,31 @@
       <name>text</name>
       <type>Main</type>
       <value>Action</value>
-      <webElementGuid>63b26b60-290b-4dd4-9fb7-61cdd271e939</webElementGuid>
+      <webElementGuid>c36b877f-5ba3-44c8-876c-591f74d6f936</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-e63587a09c14660685b31f4dfb92314f</value>
-      <webElementGuid>ea844266-170e-46d1-9e6d-3cc5f9017564</webElementGuid>
+      <value>md5.v1-0dd00049d174ccf49c43e78d55851590</value>
+      <webElementGuid>1cccb731-950d-4dbe-a574-80315b296468</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'TableBelumDiniali']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-info ')]</value>
-      <webElementGuid>603ec8ca-d082-434a-bb3d-84220b9bda7b</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' odd ') and (@role = 'row') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-info ')]</value>
+      <webElementGuid>48fe37ab-3921-4114-8148-fa7312892d24</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'TableBelumDiniali']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-info ')]</value>
-      <webElementGuid>04f4cb7e-32b7-453b-a069-992f497af87e</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' odd ') and (@role = 'row') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-info ')]</value>
+      <webElementGuid>d1e54fef-81e2-4901-973c-b014480eddf8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +113,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Action' or . = 'Action')]</value>
-      <webElementGuid>91b101ac-c4c0-4a2d-8490-18b4e3555089</webElementGuid>
+      <webElementGuid>73465aac-92f3-4b5b-996d-c99b06edc9ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'TableBelumDiniali']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn-info ')]</value>
+      <webElementGuid>04f4cb7e-32b7-453b-a069-992f497af87e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

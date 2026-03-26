@@ -6,23 +6,23 @@
    <elementGuidId>291c83cb-70aa-4eef-82ab-27aaeb9dd730</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@aria-labelledby = 'select2-Approver2-container']//*[@aria-readonly = 'true']</value>
+         <key>CSS</key>
+         <value>[aria-labelledby=&quot;select2-Approver2-container&quot;]</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>[aria-labelledby=&quot;select2-Approver2-container&quot;] [aria-readonly=&quot;true&quot;]</value>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'select2-Approver2-container']</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[@id = 'select2-Approver2-container' and (text() = '-Silahkan pilih-' or . = '-Silahkan pilih-')]</value>
+         <value>//*[(text() = '-Silahkan pilih-' or . = '-Silahkan pilih-')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#select2-Approver2-container</value>
+         <value>internal:role=combobox[name=&quot;-Silahkan pilih-&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -33,15 +33,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>2aa75597-6024-43f1-bdf4-f7350483b9ff</webElementGuid>
+      <webElementGuid>5e07e2ad-8ab7-4f6a-bd1e-be987b138cbc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>select2-selection__rendered</value>
-      <webElementGuid>aff82193-15b9-4aae-b41c-5a93427d207b</webElementGuid>
+      <value>select2-selection select2-selection--single</value>
+      <webElementGuid>e2124af3-9acd-410b-be2f-333d5284854a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -56,8 +56,8 @@
       <matchCondition>equals</matchCondition>
       <name>role</name>
       <type>Main</type>
-      <value>textbox</value>
-      <webElementGuid>e34c8d52-bdda-41bd-9e15-74afeb53a34f</webElementGuid>
+      <value>combobox</value>
+      <webElementGuid>375c8503-c44d-4f12-b345-06d0ea742b8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,24 +73,80 @@
       <name>text</name>
       <type>Main</type>
       <value>-Silahkan pilih-</value>
-      <webElementGuid>90a17e93-be66-454b-81a7-cee4e7448866</webElementGuid>
+      <webElementGuid>abff4e25-7d14-43f4-b2d1-b33ad2164c2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-98b85d94fbad89683cd7eb003e293564</value>
-      <webElementGuid>fbd2e9a2-f93d-41ff-9192-69aaa1d068be</webElementGuid>
+      <value>md5.v1-179a8e9e51c95f30c2fd6cbdb78b8fe7</value>
+      <webElementGuid>017de843-96aa-4b9a-bc34-59df34442663</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@aria-labelledby = 'select2-Approver2-container']//*[@aria-readonly = 'true']</value>
-      <webElementGuid>255c78c6-6764-4cf7-9bec-00985b4086ae</webElementGuid>
+      <value>//*[@aria-labelledby = 'select2-Approver2-container']</value>
+      <webElementGuid>544ff99e-8dae-416d-9293-767538272ed1</webElementGuid>
    </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a44c4350-2c20-45f8-8e28-b2db65c72dad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>b5f1a328-d53a-402a-88d0-093d92136d4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>eebb54e6-1153-4723-a2c9-a543ca8d833f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>74fe573c-6f8c-4e96-87d5-ea56a03c217f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>select2-Approver2-container</value>
+      <webElementGuid>1579741c-6c18-48d0-b356-26f0aa680513</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'select2-Approver2-container']</value>
+      <webElementGuid>a393b0aa-2036-454c-a818-a983bf357393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '-Silahkan pilih-' or . = '-Silahkan pilih-')]</value>
+      <webElementGuid>67b55866-a2d2-473a-ae51-01c8f95b818f</webElementGuid>
+   </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>

@@ -1,32 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_btnUploadAktivitas</name>
+   <name>li_Review IRS 2.0 dalam 6 bulan terakhir</name>
    <tag></tag>
-   <elementGuidId>48141cce-e0ac-419a-a134-3429cdabfce0</elementGuidId>
+   <elementGuidId>afb4b49e-6ac9-4328-8962-4f1a1c7effbe</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#btnUploadAktivitas</value>
+         <value>[role=&quot;option&quot;]:nth-child(1)</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'btnUploadAktivitas']</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'button' and @id = 'btnUploadAktivitas' and (text() = '
-                                Submit
-                            ' or . = '
-                                Submit
-                            ')]</value>
+         <value>//*[(@role = 'option') and (position() = 1)]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Submit&quot;i]</value>
+         <value>internal:role=option[name=&quot;Review IRS 2.0 dalam 6 bulan terakhir&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -36,77 +28,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>4e394656-bcfa-46bf-9639-88624f423849</webElementGuid>
+      <value>li</value>
+      <webElementGuid>5a7c8bfb-e0b2-438b-87f5-46f2e35ed15b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>80bf5a57-57c8-48ab-8596-926d50f0120c</webElementGuid>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>8fc7e6f0-3b3a-4ea4-9ba8-27bc8a395260</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>role</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>01b01e14-61ee-4a7b-89a2-a345c8f0752b</webElementGuid>
+      <value>option</value>
+      <webElementGuid>deabcaa3-18f6-4094-ae7c-6d4326da9d47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>aria-selected</name>
       <type>Main</type>
-      <value>btnUploadAktivitas</value>
-      <webElementGuid>89ed0be3-fd9b-497c-acd6-55b86ccae93a</webElementGuid>
+      <value>false</value>
+      <webElementGuid>4c6491eb-4f12-48ce-8e8d-692d377714c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>67</value>
+      <webElementGuid>329536f8-cefd-485a-9064-0a552a616f87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-                                Submit
-                            </value>
-      <webElementGuid>0d953e58-863f-41ec-95f8-c43ceb6abd42</webElementGuid>
+      <value>Review IRS 2.0 dalam 6 bulan terakhir</value>
+      <webElementGuid>8f77e879-a4af-431c-9030-3e2943da1813</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-f54ce7cd28bef6f76574d55f0a0e5d2d</value>
-      <webElementGuid>12a3de02-c8b1-4efe-831a-f9bab67b91e6</webElementGuid>
+      <value>md5.v1-b5a7388a68fb2b08bb910a353a5f5f6b</value>
+      <webElementGuid>33722080-2cc3-4de3-8c15-ee0c002ff8fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'btnUploadAktivitas']</value>
-      <webElementGuid>1b7933e6-b1a0-402b-a553-4f1a764b2770</webElementGuid>
+      <value>//*[(@role = 'option') and (position() = 1)]</value>
+      <webElementGuid>23fc2ccf-9300-4d78-b7f5-7ddbb327592c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'btnUploadAktivitas']</value>
-      <webElementGuid>5bcfd4c1-4d3e-491e-b1b1-1a711dff16fd</webElementGuid>
+      <value>//*[(@role = 'option') and (position() = 1)]</value>
+      <webElementGuid>11ca19f6-947a-4d3b-9ab8-1f9bf9ed46f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'btnUploadAktivitas' and (text() = '
-                                Submit
-                            ' or . = '
-                                Submit
-                            ')]</value>
-      <webElementGuid>fd0af3dd-da6b-4b27-8f73-a84093e9ac15</webElementGuid>
+      <value>//li[(text() = 'Review IRS 2.0 dalam 6 bulan terakhir' or . = 'Review IRS 2.0 dalam 6 bulan terakhir')]</value>
+      <webElementGuid>c5c81f40-8e79-4e63-ab94-33dbbe167a84</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

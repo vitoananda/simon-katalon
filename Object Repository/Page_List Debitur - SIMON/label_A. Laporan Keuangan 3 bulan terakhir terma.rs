@@ -6,12 +6,20 @@
    <elementGuidId>d4800aa9-5594-4ea0-a0b1-bf504e393ad7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@aria-labelledby = 'TabPilar-18']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 27)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+         <key>CSS</key>
+         <value>[aria-labelledby=&quot;TabPilar-12&quot;] .form-check:nth-child(21) .form-check-label.custom-mrgnlft</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>[aria-labelledby=&quot;TabPilar-18&quot;] .form-check:nth-child(27) .form-check-label.custom-mrgnlft</value>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'TabPilar-12']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 21)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+                                A. Laporan Keuangan 3 bulan terakhir termasuk Lap Audited periode terakhir tersedia.
+                            ' or . = '
+                                A. Laporan Keuangan 3 bulan terakhir termasuk Lap Audited periode terakhir tersedia.
+                            ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,15 +37,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>3f121eff-ae9a-48f2-9686-dfb4451e5cbf</webElementGuid>
+      <webElementGuid>584a0d27-73ed-4495-86d5-0f7ab271c8c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>for</name>
       <type>Main</type>
-      <value>default-jawaban-605</value>
-      <webElementGuid>ede64dbb-455e-4119-8b7d-1ea486a87029</webElementGuid>
+      <value>default-jawaban-196</value>
+      <webElementGuid>92107514-0756-4c1a-8a77-55fc4ff29e9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-label custom-mrgnlft</value>
-      <webElementGuid>30f1db82-38d0-435d-a01c-82b0df3265b4</webElementGuid>
+      <webElementGuid>fefd8ab8-3f53-4d88-9ab8-9fd3f366492c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,31 +63,31 @@
       <value>
                                 A. Laporan Keuangan 3 bulan terakhir termasuk Lap Audited periode terakhir tersedia.
                             </value>
-      <webElementGuid>2b4363b1-267a-495a-aa54-11a506331506</webElementGuid>
+      <webElementGuid>d9dbdbae-24e8-4abb-9974-71c16d4f7832</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-061db8bb69fcc90e151197729b949b50</value>
-      <webElementGuid>91051ae2-71d8-450a-8684-7f2245aac691</webElementGuid>
+      <value>md5.v1-8367cad3d6e9d8c7bcd812eea00d70ed</value>
+      <webElementGuid>eb650ab5-05ee-4bba-9bce-41c1b967efd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@aria-labelledby = 'TabPilar-18']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 27)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>d615973b-a27e-46ae-81b3-820c5d099f62</webElementGuid>
+      <value>//*[@aria-labelledby = 'TabPilar-12']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 21)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>2a488a37-74a3-4ba5-bbc3-50eb2c331b1e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@aria-labelledby = 'TabPilar-18']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 27)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>251fda43-7759-4cf1-97bb-a707993e980f</webElementGuid>
+      <value>//*[@aria-labelledby = 'TabPilar-12']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 21)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>bf8c5ad6-f092-4b2c-a874-3f727263e204</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,6 +99,22 @@
                             ' or . = '
                                 A. Laporan Keuangan 3 bulan terakhir termasuk Lap Audited periode terakhir tersedia.
                             ')]</value>
-      <webElementGuid>534fc600-978c-449a-a0d8-06f0670c9731</webElementGuid>
+      <webElementGuid>d6b8223d-e75a-4ed7-9e4d-6ee3cfb096e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'TabPilar-12']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 21)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' leftmargin-unset ')]</value>
+      <webElementGuid>8999a59b-1425-4a3e-b856-0bf44b757f51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'TabPilar-18']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 27)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>251fda43-7759-4cf1-97bb-a707993e980f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,20 @@
    <elementGuidId>54f51e6f-8f36-4591-b0af-05634685be7f</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+         <value>.form-check:nth-child(59) .form-check-label.custom-mrgnlft</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 59)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>.form-check:nth-child(59) .form-check-label.custom-mrgnlft</value>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+                                A. Mayoritas BNI
+                            ' or . = '
+                                A. Mayoritas BNI
+                            ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,15 +37,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>ea5ac40d-2030-4469-999e-525a0a83b159</webElementGuid>
+      <webElementGuid>1a9aedcc-bd16-459b-b497-e7736743b387</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>for</name>
       <type>Main</type>
-      <value>default-jawaban-592</value>
-      <webElementGuid>90f1b455-7272-4214-98eb-c5871991d14c</webElementGuid>
+      <value>default-jawaban-244</value>
+      <webElementGuid>3ac5809c-f6e3-4f92-b561-028156ec9e76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-label custom-mrgnlft</value>
-      <webElementGuid>4662a3f2-585b-40d5-ad62-a30280d9085b</webElementGuid>
+      <webElementGuid>0ec742d1-87da-4a04-883a-cdbc536d94e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,9 +61,9 @@
       <name>text</name>
       <type>Main</type>
       <value>
-                                A. Mayoritas BNI    
+                                A. Mayoritas BNI
                             </value>
-      <webElementGuid>9beff033-445e-40e2-8ec8-8c47cc438d40</webElementGuid>
+      <webElementGuid>eb9edc11-5a7a-4d9a-b4e6-af8568461b6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +71,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-a8a4b839866ad17db7d2098e95d3b8e9</value>
-      <webElementGuid>432f4f55-b545-440a-9f76-1fde2e592dda</webElementGuid>
+      <webElementGuid>a32c82ce-f64f-4489-8617-b9a115878ede</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 59)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>71eadb92-0a04-47a6-bc49-d3262424be53</webElementGuid>
+      <webElementGuid>32d07a0d-c51a-4984-872e-6df3b2e08089</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +87,27 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 59)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>1dcc376f-9b28-47fc-8b88-618fedfa2cc6</webElementGuid>
+      <webElementGuid>9e851875-66fc-4769-880e-4cd934246ac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '
+                                A. Mayoritas BNI
+                            ' or . = '
+                                A. Mayoritas BNI
+                            ')]</value>
+      <webElementGuid>7a924797-334f-4ab0-80d3-6f87c83ad4a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 59)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' leftmargin-unset ')]</value>
+      <webElementGuid>145d0fe4-6519-4424-b765-262fbc4c6cc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -6,12 +6,12 @@
    <elementGuidId>4f689a95-d350-4eed-9a3a-6df9f0da53f8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@aria-labelledby = 'TabPilar-17']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+         <key>CSS</key>
+         <value>[aria-labelledby=&quot;TabPilar-11&quot;] .form-check:nth-child(3) .form-check-label.custom-mrgnlft</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>[aria-labelledby=&quot;TabPilar-17&quot;] .form-check:nth-child(3) .form-check-label.custom-mrgnlft</value>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'TabPilar-11']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
       </entry>
       <entry>
          <key>BASIC</key>
@@ -37,15 +37,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>f935d624-8447-4d76-867e-5340c932c7dd</webElementGuid>
+      <webElementGuid>ce579472-7d60-4464-ba8e-f00786d00719</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>for</name>
       <type>Main</type>
-      <value>default-jawaban-529</value>
-      <webElementGuid>e24b8b2d-1a16-43ae-ba72-40f358bdaadd</webElementGuid>
+      <value>default-jawaban-771</value>
+      <webElementGuid>5fd6c9bc-05b5-44a4-ba9f-d9cec1d3595f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-label custom-mrgnlft</value>
-      <webElementGuid>f88d79ba-c83e-47d2-8c32-40485364afe5</webElementGuid>
+      <webElementGuid>f6889bfb-b966-48f6-ab99-484440cc1078</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,31 +63,31 @@
       <value>
                                 A. Debitur tidak pernah memiliki EBTIDA negatif dalam 3 tahun terakhir
                             </value>
-      <webElementGuid>8258959c-701f-4ac0-88dd-0000ba24f28a</webElementGuid>
+      <webElementGuid>ed3c6449-4509-4693-94ea-11bc206864b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-ae13eb7ad9d0c80dacd29a104a9f9d85</value>
-      <webElementGuid>189aaa6d-4cb3-435e-9c6c-76e86b9aa9b2</webElementGuid>
+      <value>md5.v1-512b820b088bf6364122470185ccff87</value>
+      <webElementGuid>26e12022-f5bf-4ffc-94a7-ed5a6680d777</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@aria-labelledby = 'TabPilar-17']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>9b5af34a-8cde-493c-9142-8d3a2a5d0383</webElementGuid>
+      <value>//*[@aria-labelledby = 'TabPilar-11']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>c8151c8a-80f3-4622-a9c2-3c52605b929f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@aria-labelledby = 'TabPilar-17']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>9aec0ecf-96fc-479d-96f5-9940d9e68134</webElementGuid>
+      <value>//*[@aria-labelledby = 'TabPilar-11']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>6607b7ec-4f2d-43ae-891d-b85f2e1d00c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,23 @@
                             ' or . = '
                                 A. Debitur tidak pernah memiliki EBTIDA negatif dalam 3 tahun terakhir
                             ')]</value>
-      <webElementGuid>1ac7884d-2d68-4abf-8b6d-b9eccaa0ff3a</webElementGuid>
+      <webElementGuid>8abf6a8a-0884-416e-ab0f-3311d4dd969d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'TabPilar-11']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' leftmargin-unset ')]</value>
+      <webElementGuid>0625654a-8b50-4f5b-ae28-47ecae05b2b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'TabPilar-17']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>9aec0ecf-96fc-479d-96f5-9940d9e68134</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

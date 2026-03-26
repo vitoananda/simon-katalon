@@ -6,12 +6,12 @@
    <elementGuidId>a5c1054c-a8e5-4ae5-a29c-4ec29796a08c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@aria-labelledby = '']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>[aria-labelledby=&quot;&quot;] .form-check:nth-child(3) .form-check-label.custom-mrgnlft</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = '']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
       </entry>
       <entry>
          <key>BASIC</key>
@@ -37,15 +37,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>f39b8a03-8ce0-4062-adec-fe5ad551cb32</webElementGuid>
+      <webElementGuid>781f576d-a5bb-40da-9334-868c1ba5088a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>for</name>
       <type>Main</type>
-      <value>default-jawaban-496</value>
-      <webElementGuid>126f969c-a02b-4ddd-b26c-51604505b7a3</webElementGuid>
+      <value>default-jawaban-738</value>
+      <webElementGuid>9575ac65-e658-4e0e-8489-6bf41e50059c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-label custom-mrgnlft</value>
-      <webElementGuid>0688b74d-82b1-4ac6-9d4b-ee479aaad487</webElementGuid>
+      <webElementGuid>64efaa0f-f0e9-491f-a603-f2ecc28219d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <value>
                                 A. Meningkat lebih dari 25%
                             </value>
-      <webElementGuid>f5172d4e-6e24-4070-b27e-11b93013083e</webElementGuid>
+      <webElementGuid>3108c5a9-4579-4717-81d1-7ed315244907</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-ead48428c8f0315a796baab8b6f92f84</value>
-      <webElementGuid>a4f0ae55-d4b0-465f-b61e-04f561f8a207</webElementGuid>
+      <webElementGuid>cc145e12-7736-470a-a408-ef0a622789a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@aria-labelledby = '']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>48dcd638-5476-4e03-8424-80fc4b8babb3</webElementGuid>
+      <webElementGuid>2ab36de5-9907-43d4-965a-47d649a3b612</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@aria-labelledby = '']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>119f11cf-4920-4281-8145-8027ae8d5372</webElementGuid>
+      <webElementGuid>97d9d8ef-ad91-4a9a-9847-07a28b24747b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +99,14 @@
                             ' or . = '
                                 A. Meningkat lebih dari 25%
                             ')]</value>
-      <webElementGuid>56c17b5b-761e-47d0-b69d-5a59ae015eb7</webElementGuid>
+      <webElementGuid>d9c34bdf-a5ac-4d44-8b6a-728449e5ddaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = '']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' leftmargin-unset ')]</value>
+      <webElementGuid>987a5757-d6b0-4a65-b4cf-483667a356bc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

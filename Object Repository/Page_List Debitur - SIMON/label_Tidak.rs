@@ -6,12 +6,20 @@
    <elementGuidId>fef78e9e-d9bb-4b9d-aa9b-e49d9a4cfaf9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id = 'FormPertanyaan']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+         <key>CSS</key>
+         <value>#FormPertanyaan .form-check:nth-child(11) .form-check-label.custom-mrgnlft</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#FormPertanyaan .form-check:nth-child(3) .form-check-label.custom-mrgnlft</value>
+         <key>XPATH</key>
+         <value>//*[@id = 'FormPertanyaan']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 11)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+        Tidak
+    ' or . = '
+        Tidak
+    ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,15 +37,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>bab870ab-5ffe-40ce-9041-78e51a3a287b</webElementGuid>
+      <webElementGuid>8f8e6871-36ed-4feb-8b6b-6b7c98f365a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>for</name>
       <type>Main</type>
-      <value>indikasi_53</value>
-      <webElementGuid>800313a2-d0da-4d67-8d99-291938a04806</webElementGuid>
+      <value>indikasi_50</value>
+      <webElementGuid>8e56cda7-5d57-495c-affa-cc517844aaef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-label custom-mrgnlft</value>
-      <webElementGuid>f83cc661-b910-422a-b01d-9888d04fb902</webElementGuid>
+      <webElementGuid>adcdc276-8db4-4622-9882-01a110ecf7f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,31 +63,31 @@
       <value>
         Tidak
     </value>
-      <webElementGuid>acb70f7f-8e79-4f5c-a389-8f1ddd53bde4</webElementGuid>
+      <webElementGuid>93f939f0-3cd6-4b61-bce6-313b2d4e44c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-d8b7f7e5559932a97e441c134d4f4476</value>
-      <webElementGuid>1ff39b3e-749c-4882-913b-29541dfe83ad</webElementGuid>
+      <value>md5.v1-042b64ebd92a20724d94d2a75a7b131b</value>
+      <webElementGuid>aaa1f0e0-8ecf-4ac7-8734-04aad39d8c44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'FormPertanyaan']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>d47636a2-61a5-4637-b002-61fb3d950d6a</webElementGuid>
+      <value>//*[@id = 'FormPertanyaan']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 11)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>f36e9501-d384-422b-b20f-b0c9e31a77ee</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'FormPertanyaan']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>bebc4229-6b1a-46ce-9755-05e90853898e</webElementGuid>
+      <value>//*[@id = 'FormPertanyaan']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 11)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>d9092cfb-6736-49d6-8173-8d260654766e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,6 +99,14 @@
     ' or . = '
         Tidak
     ')]</value>
-      <webElementGuid>4269b03b-122a-4a07-acba-eee774e7b014</webElementGuid>
+      <webElementGuid>ffd8c17e-76b6-4379-95af-1449bf539b9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'FormPertanyaan']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
+      <webElementGuid>bebc4229-6b1a-46ce-9755-05e90853898e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

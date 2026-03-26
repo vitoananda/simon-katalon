@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SIMON - Inputter SME</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7100f724-ab76-42e7-a526-a134fdeea24a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1115a7e4-4a7c-4b36-906c-b70713b00dad</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bf88a66c-7f5e-404b-bd71-0bbf2e08f76f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b49a55f8-eb25-440f-af08-55d06dae3c81</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1115a7e4-4a7c-4b36-906c-b70713b00dad</id>
+      <masked>false</masked>
+      <name>cif</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bf88a66c-7f5e-404b-bd71-0bbf2e08f76f</id>
+      <masked>false</masked>
+      <name>filePath</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>b49a55f8-eb25-440f-af08-55d06dae3c81</id>
+      <masked>false</masked>
+      <name>hijau</name>
+   </variable>
+</TestCaseEntity>

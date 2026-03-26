@@ -6,12 +6,12 @@
    <elementGuidId>a038f16a-cf77-400a-a63a-9843c37a9323</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 54)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>.form-check:nth-child(54) .form-check-label.custom-mrgnlft</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 54)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
       </entry>
       <entry>
          <key>BASIC</key>
@@ -37,15 +37,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>cc715e3c-1ed7-4f9e-a74f-55b0d88b85b1</webElementGuid>
+      <webElementGuid>12f899de-6214-44d5-b68a-01c4f0b56dc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>for</name>
       <type>Main</type>
-      <value>default-jawaban-589</value>
-      <webElementGuid>9aaba906-abb5-462f-a00c-cac6b2af7ded</webElementGuid>
+      <value>default-jawaban-241</value>
+      <webElementGuid>ae99c985-697f-43cd-9ddc-9ceb7c31563d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-label custom-mrgnlft</value>
-      <webElementGuid>8c7a6a54-5f83-42c8-886d-28311558e54c</webElementGuid>
+      <webElementGuid>14036b9c-977f-4773-9307-889d8be1589e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <value>
                                 A. Masih berjalan dan penggunaan dana sesuai dengan peruntukan pada perjanjian kredit  
                             </value>
-      <webElementGuid>42994156-ccc0-4965-a80a-220bc25d2ecc</webElementGuid>
+      <webElementGuid>6217364e-88b4-4ab8-b679-dbe64c4bc95a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-7ce1049bb5e72cc757dff8ab2a30ba01</value>
-      <webElementGuid>6d49c032-f4dc-4cb4-a88e-184f18904a46</webElementGuid>
+      <webElementGuid>aae0bf67-72dc-4aad-953b-6fc275bdf3f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 54)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>35bfd501-fa9f-4ebe-9109-cbfd268367cf</webElementGuid>
+      <webElementGuid>f6d8aaef-e2b7-45b6-acb6-b88783bcc3b5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 54)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' custom-mrgnlft ')]</value>
-      <webElementGuid>32f4a6fb-69f8-4c9a-9cec-437c425e6da3</webElementGuid>
+      <webElementGuid>296484aa-8dd8-4a49-bdce-c4721a05877a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,15 @@
                             ' or . = '
                                 A. Masih berjalan dan penggunaan dana sesuai dengan peruntukan pada perjanjian kredit  
                             ')]</value>
-      <webElementGuid>6a79a107-1a56-4033-aa02-50fe2faef463</webElementGuid>
+      <webElementGuid>b357fa2b-9de5-44bd-8058-1c1e3dd9e418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check ') and (position() = 54)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' form-check-label ') and contains(concat(' ', normalize-space(@class), ' '), ' leftmargin-unset ')]</value>
+      <webElementGuid>04bc4fab-5110-4f76-a6bc-d6f2bd4252e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
